@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.VBox?>
+
+<VBox spacing="10"
+      xmlns="http://javafx.com/javafx/21"
+      xmlns:fx="http://javafx.com/fxml/1"
+      fx:controller="hr.algebra.controllers.WatchlistController">
+    <Label text="My Watchlist" style="-fx-font-size: 20; -fx-font-weight: bold;"/>
+    <TableView fx:id="tableWatchlist"
+               VBox.vgrow="ALWAYS"
+               prefWidth="400"
+               prefHeight="600">
+        <columns>
+            <TableColumn fx:id="colName" text="Name" prefWidth="380"/>
+        </columns>
+        <placeholder>
+            <Label text="Your watchlist is empty." style="-fx-text-fill: #aaaaaa;"/>
+        </placeholder>
+    </TableView>
+</VBox>

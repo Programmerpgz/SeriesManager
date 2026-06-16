@@ -1,0 +1,4406 @@
+<userLogs>
+  <log>
+    <timestamp>2026-05-22T15:31:17.634424400</timestamp>
+    <user>System Admin</user>
+    <action>Wiped the entire database and non-default assets.</action>
+    <level>WARN</level>
+  </log>
+  <log>
+    <timestamp>2026-05-23T11:16:35.944335800</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Matt Duffer</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-23T11:16:36.174665300</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: Stranger Things</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-23T11:16:36.253545500</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Jesse Armstrong</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-23T11:16:36.339198300</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: Succession</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-23T11:16:36.532542</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Christopher Storer</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-23T11:16:36.617411500</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: The Bear</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-23T11:16:36.695102800</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Craig Mazin</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-23T11:16:36.786801300</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: The Last of Us</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-23T11:16:36.902207800</timestamp>
+    <user>System Admin</user>
+    <action>User triggered automatic online data import.</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-23T11:16:54.152325400</timestamp>
+    <user>Admin Sustava</user>
+    <action>All series successfully deleted from database.</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-23T11:16:55.495251500</timestamp>
+    <user>System Admin</user>
+    <action>Wiped the entire database and non-default assets.</action>
+    <level>WARN</level>
+  </log>
+  <log>
+    <timestamp>2026-05-23T11:59:23.562702400</timestamp>
+    <user>Admin Sustava</user>
+    <action>All series successfully deleted from database.</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-23T11:59:24.962772500</timestamp>
+    <user>System Admin</user>
+    <action>Wiped the entire database and non-default assets.</action>
+    <level>WARN</level>
+  </log>
+  <log>
+    <timestamp>2026-05-23T12:04:19.491594</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Matt Duffer</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-23T12:04:19.611143800</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: Stranger Things</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-23T12:04:19.805540300</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Jesse Armstrong</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-23T12:04:19.899445800</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: Succession</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-23T12:04:19.979300400</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Christopher Storer</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-23T12:04:20.072867500</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: The Bear</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-23T12:04:20.256780100</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Craig Mazin</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-23T12:04:20.351615100</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: The Last of Us</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-23T12:04:20.582494300</timestamp>
+    <user>System Admin</user>
+    <action>User triggered automatic online data import.</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-23T12:04:26.681667600</timestamp>
+    <user>Admin Sustava</user>
+    <action>Edited series: Stranger Things</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-23T12:04:26.693666100</timestamp>
+    <user>Admin Sustava</user>
+    <action>Series edited: Stranger Things</action>
+    <level>WARN</level>
+  </log>
+  <log>
+    <timestamp>2026-05-23T12:04:58.878892400</timestamp>
+    <user>Admin Sustava</user>
+    <action>Updated series with ID: 1 (EDIT POSTOJECE)</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-23T12:04:58.887899</timestamp>
+    <user>Admin Sustava</user>
+    <action>Saved series: EDIT POSTOJECE</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-23T12:04:58.904140</timestamp>
+    <user>Admin Sustava</user>
+    <action>Edited series: EDIT POSTOJECE</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-23T12:04:58.913409700</timestamp>
+    <user>Admin Sustava</user>
+    <action>Series edited: EDIT POSTOJECE</action>
+    <level>WARN</level>
+  </log>
+  <log>
+    <timestamp>2026-05-23T12:05:12.771991800</timestamp>
+    <user>Admin Sustava</user>
+    <action>Edited series: EDIT POSTOJECE</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-23T12:05:12.782993700</timestamp>
+    <user>Admin Sustava</user>
+    <action>Series edited: EDIT POSTOJECE</action>
+    <level>WARN</level>
+  </log>
+  <log>
+    <timestamp>2026-05-23T12:05:53.376942100</timestamp>
+    <user>Admin Sustava</user>
+    <action>User selected image: 1779530753361_FB_IMG_1694806381895.jpg</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-23T12:06:06.943110400</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: Nova serija</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-23T12:06:06.954111600</timestamp>
+    <user>Admin Sustava</user>
+    <action>Saved series: Nova serija</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-23T12:06:22.375029900</timestamp>
+    <user>Admin Sustava</user>
+    <action>Deleted series with ID: 1 (EDIT POSTOJECE)</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-23T12:06:22.386777400</timestamp>
+    <user>Admin Sustava</user>
+    <action>Deleted series: EDIT POSTOJECE</action>
+    <level>WARN</level>
+  </log>
+  <log>
+    <timestamp>2026-05-23T12:06:46.177851100</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new actor: Novi Glumac</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-23T12:06:53.881434200</timestamp>
+    <user>Admin Sustava</user>
+    <action>Updated actor with ID: 18 (Noviji Glumac)</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-23T12:07:07.414173600</timestamp>
+    <user>Admin Sustava</user>
+    <action>Updated actor with ID: 18 (Noviji Glumac)</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-23T12:07:23.597747700</timestamp>
+    <user>Admin Sustava</user>
+    <action>Updated actor with ID: 18 (Noviji JosNOVIJI)</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-23T12:08:09.502577</timestamp>
+    <user>Admin Sustava</user>
+    <action>Updated actor with ID: 11 (Millie British)</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-23T12:08:25.773763800</timestamp>
+    <user>Admin Sustava</user>
+    <action>Updated actor with ID: 11 (Novac British)</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-23T12:08:33.628667400</timestamp>
+    <user>Admin Sustava</user>
+    <action>Updated actor with ID: 11 (Novac British)</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-23T12:09:04.551160200</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Novi Direktor</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-23T12:09:11.917218700</timestamp>
+    <user>Admin Sustava</user>
+    <action>Updated director with ID: 5 (JosNoviji Direktor)</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-23T12:09:37.086805500</timestamp>
+    <user>Admin Sustava</user>
+    <action>Updated director with ID: 5 (JosNoviji Direktor)</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-23T12:10:07.435188600</timestamp>
+    <user>Admin Sustava</user>
+    <action>Deleted director with ID: 5 (JosNoviji Direktor)</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-23T12:10:08.068051800</timestamp>
+    <user>Admin Sustava</user>
+    <action>Deleted Director: JosNoviji Direktor</action>
+    <level>WARN</level>
+  </log>
+  <log>
+    <timestamp>2026-05-23T12:10:24.658122600</timestamp>
+    <user>Admin Sustava</user>
+    <action>Deleted actor with ID: 18</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-23T12:10:24.667564500</timestamp>
+    <user>Admin Sustava</user>
+    <action>Deleted Actor: Noviji JosNOVIJI</action>
+    <level>WARN</level>
+  </log>
+  <log>
+    <timestamp>2026-05-23T12:10:40.230958</timestamp>
+    <user>Admin Sustava</user>
+    <action>Updated actor with ID: 11 (Novac British)</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-23T12:11:46.693284200</timestamp>
+    <user>Admin Sustava</user>
+    <action>Export: Nova serija</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-23T12:11:56.743075400</timestamp>
+    <user>Admin Sustava</user>
+    <action>Backup Successful</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-23T12:12:46.954020500</timestamp>
+    <user>macak macic</user>
+    <action>Added series to watchlist: 5</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-23T12:12:50.584814400</timestamp>
+    <user>macak macic</user>
+    <action>Added series to watchlist: 2</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-23T12:12:55.959531</timestamp>
+    <user>macak macic</user>
+    <action>Removed series from watchlist: 2</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-23T12:12:56.006154400</timestamp>
+    <user>macak macic</user>
+    <action>Removed series: Succession</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-23T12:12:58.998064800</timestamp>
+    <user>macak macic</user>
+    <action>Removed series from watchlist: 5</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-23T12:12:59.053409800</timestamp>
+    <user>macak macic</user>
+    <action>Removed series: Nova serija</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-23T12:13:18.406505600</timestamp>
+    <user>Admin Sustava</user>
+    <action>All series successfully deleted from database.</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-23T12:13:19.684782300</timestamp>
+    <user>System Admin</user>
+    <action>Wiped the entire database and non-default assets.</action>
+    <level>WARN</level>
+  </log>
+  <log>
+    <timestamp>2026-05-23T12:25:40.815780100</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Matt Duffer</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-23T12:25:41.015890500</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: Stranger Things</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-23T12:25:41.268579800</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Jesse Armstrong</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-23T12:25:41.417607200</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: Succession</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-23T12:25:41.561758300</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Christopher Storer</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-23T12:25:41.825778400</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: The Bear</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-23T12:25:41.970146400</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Craig Mazin</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-23T12:25:42.132281</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: The Last of Us</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-23T12:25:42.326967800</timestamp>
+    <user>System Admin</user>
+    <action>User triggered automatic online data import.</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-23T12:26:02.172004500</timestamp>
+    <user>Admin Sustava</user>
+    <action>Updated actor with ID: 10 (Novi Korisnik)</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-23T12:26:23.000015100</timestamp>
+    <user>Admin Sustava</user>
+    <action>Updated director with ID: 3 (Noviiji Direktor)</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-23T12:26:35.370854600</timestamp>
+    <user>Admin Sustava</user>
+    <action>All series successfully deleted from database.</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-23T12:26:36.756692700</timestamp>
+    <user>System Admin</user>
+    <action>Wiped the entire database and non-default assets.</action>
+    <level>WARN</level>
+  </log>
+  <log>
+    <timestamp>2026-05-23T12:29:54.862807</timestamp>
+    <user>macic macic</user>
+    <action>Added new user: macic macic</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-23T17:16:18.942537800</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Matt Duffer</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-23T17:16:19.062713700</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: Stranger Things</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-23T17:16:19.250623500</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Jesse Armstrong</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-23T17:16:19.337229700</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: Succession</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-23T17:16:19.419098700</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Christopher Storer</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-23T17:16:19.507363100</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: The Bear</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-23T17:16:19.588289100</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Craig Mazin</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-23T17:16:19.670770700</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: The Last of Us</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-23T17:16:19.795472900</timestamp>
+    <user>System Admin</user>
+    <action>User triggered automatic online data import.</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-23T17:16:29.813534900</timestamp>
+    <user>Admin Sustava</user>
+    <action>Deleted series with ID: 1 (Stranger Things)</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-23T17:16:29.823015800</timestamp>
+    <user>Admin Sustava</user>
+    <action>Deleted series: Stranger Things</action>
+    <level>WARN</level>
+  </log>
+  <log>
+    <timestamp>2026-05-23T17:16:44.304262300</timestamp>
+    <user>Admin Sustava</user>
+    <action>Deleted actor with ID: 1</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-23T17:16:44.312944600</timestamp>
+    <user>Admin Sustava</user>
+    <action>Deleted Actor: Millie Bobby Brown</action>
+    <level>WARN</level>
+  </log>
+  <log>
+    <timestamp>2026-05-23T17:16:55.550495</timestamp>
+    <user>Admin Sustava</user>
+    <action>Deleted director with ID: 1 (Matt Duffer)</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-23T17:16:55.898786400</timestamp>
+    <user>Admin Sustava</user>
+    <action>Deleted Director: Matt Duffer</action>
+    <level>WARN</level>
+  </log>
+  <log>
+    <timestamp>2026-05-23T17:17:16.246602500</timestamp>
+    <user>Admin Sustava</user>
+    <action>All series successfully deleted from database.</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-23T17:17:17.870468600</timestamp>
+    <user>System Admin</user>
+    <action>Wiped the entire database and non-default assets.</action>
+    <level>WARN</level>
+  </log>
+  <log>
+    <timestamp>2026-05-23T17:17:19.724605400</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Matt Duffer</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-23T17:17:19.808084900</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: Stranger Things</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-23T17:17:19.889972</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Jesse Armstrong</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-23T17:17:19.980981200</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: Succession</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-23T17:17:20.059485700</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Christopher Storer</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-23T17:17:20.141774</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: The Bear</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-23T17:17:20.222493200</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Craig Mazin</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-23T17:17:20.306086500</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: The Last of Us</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-23T17:17:20.418190800</timestamp>
+    <user>System Admin</user>
+    <action>User triggered automatic online data import.</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-23T17:17:30.941612900</timestamp>
+    <user>Admin Sustava</user>
+    <action>All series successfully deleted from database.</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-23T17:17:32.501498800</timestamp>
+    <user>System Admin</user>
+    <action>Wiped the entire database and non-default assets.</action>
+    <level>WARN</level>
+  </log>
+  <log>
+    <timestamp>2026-05-24T11:36:11.138728300</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Matt Duffer</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-24T11:36:11.363476300</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: Stranger Things</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-24T11:36:11.515685300</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Jesse Armstrong</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-24T11:36:11.688156800</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: Succession</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-24T11:36:11.822544200</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Christopher Storer</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-24T11:36:11.974656400</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: The Bear</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-24T11:36:12.114204100</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Craig Mazin</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-24T11:36:12.460138900</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: The Last of Us</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-24T11:36:12.666007800</timestamp>
+    <user>System Admin</user>
+    <action>User triggered automatic online data import.</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-24T11:36:29.263772300</timestamp>
+    <user>macak macic</user>
+    <action>Added series to watchlist: 1</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-24T11:36:36.545341300</timestamp>
+    <user>macak macic</user>
+    <action>Added series to watchlist: 2</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-24T11:37:30.076878700</timestamp>
+    <user>macak macic</user>
+    <action>Added series to watchlist: 1</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-24T11:37:39.463904900</timestamp>
+    <user>macak macic</user>
+    <action>Added series to watchlist: 1</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-24T11:37:48.201091700</timestamp>
+    <user>macak macic</user>
+    <action>Removed series from watchlist: 1</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-24T11:37:55.355033100</timestamp>
+    <user>macak macic</user>
+    <action>Removed series from watchlist: 2</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-24T11:39:33.333697100</timestamp>
+    <user>macak macic</user>
+    <action>Added series to watchlist: 1</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-24T11:40:15.345584800</timestamp>
+    <user>macak macic</user>
+    <action>Added series to watchlist: 1</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-24T11:40:20.872051</timestamp>
+    <user>macak macic</user>
+    <action>Removed series from watchlist: 1</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-24T11:40:20.980082600</timestamp>
+    <user>macak macic</user>
+    <action>Removed series: Stranger Things</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-24T11:40:25.695384400</timestamp>
+    <user>macak macic</user>
+    <action>Added series to watchlist: 3</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-24T11:40:28.306434100</timestamp>
+    <user>macak macic</user>
+    <action>Added series to watchlist: 2</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-24T11:40:34.186226</timestamp>
+    <user>macak macic</user>
+    <action>Removed series from watchlist: 3</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-24T11:40:34.281928600</timestamp>
+    <user>macak macic</user>
+    <action>Removed series: The Bear</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-24T11:40:37.051619800</timestamp>
+    <user>macak macic</user>
+    <action>Removed series from watchlist: 2</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-24T11:40:37.142021900</timestamp>
+    <user>macak macic</user>
+    <action>Removed series: Succession</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-24T11:47:10.862821</timestamp>
+    <user>macak macic</user>
+    <action>Added series to watchlist: 1</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-24T11:48:07.307961700</timestamp>
+    <user>macak macic</user>
+    <action>Added series to watchlist: 2</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-24T11:56:38.554326700</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new actor: Novi Glumac</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-24T12:25:49.307299800</timestamp>
+    <user>Admin Sustava</user>
+    <action>All series successfully deleted from database.</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-24T12:25:51.500856100</timestamp>
+    <user>System Admin</user>
+    <action>Wiped the entire database and non-default assets.</action>
+    <level>WARN</level>
+  </log>
+  <log>
+    <timestamp>2026-05-24T12:25:53.796196600</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Matt Duffer</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-24T12:25:53.983793700</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: Stranger Things</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-24T12:25:54.240564</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Jesse Armstrong</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-24T12:25:54.394930</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: Succession</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-24T12:25:54.532406700</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Christopher Storer</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-24T12:25:54.677481300</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: The Bear</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-24T12:25:54.813733700</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Craig Mazin</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-24T12:25:54.969681400</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: The Last of Us</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-24T12:25:55.174734100</timestamp>
+    <user>System Admin</user>
+    <action>User triggered automatic online data import.</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-24T12:26:26.742337500</timestamp>
+    <user>Admin Sustava</user>
+    <action>Updated series with ID: 1 (Nova)</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-24T12:26:26.765214</timestamp>
+    <user>Admin Sustava</user>
+    <action>Saved series: Nova</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-24T12:26:26.800549400</timestamp>
+    <user>Admin Sustava</user>
+    <action>Edited series: Nova</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-24T12:26:26.822665200</timestamp>
+    <user>Admin Sustava</user>
+    <action>Series edited: Nova</action>
+    <level>WARN</level>
+  </log>
+  <log>
+    <timestamp>2026-05-24T12:26:33.931116</timestamp>
+    <user>Admin Sustava</user>
+    <action>Deleted series with ID: 1 (Nova)</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-24T12:26:33.953642900</timestamp>
+    <user>Admin Sustava</user>
+    <action>Deleted series: Nova</action>
+    <level>WARN</level>
+  </log>
+  <log>
+    <timestamp>2026-05-24T12:27:10.159851200</timestamp>
+    <user>Admin Sustava</user>
+    <action>User selected image: 1779618430096_104886994_2641667612774291_4409477279909454802_n.jpg</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-24T12:27:12.196282200</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: Nova Serija</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-24T12:27:12.214439300</timestamp>
+    <user>Admin Sustava</user>
+    <action>Saved series: Nova Serija</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-24T12:27:26.808552600</timestamp>
+    <user>Admin Sustava</user>
+    <action>Updated actor with ID: 3 (Neki Drugi)</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-24T12:27:42.841513</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new actor: Novi Glumac</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-24T12:27:55.073197</timestamp>
+    <user>Admin Sustava</user>
+    <action>Deleted actor with ID: 3</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-24T12:27:55.100744600</timestamp>
+    <user>Admin Sustava</user>
+    <action>Deleted Actor: Neki Drugi</action>
+    <level>WARN</level>
+  </log>
+  <log>
+    <timestamp>2026-05-24T12:28:05.965621500</timestamp>
+    <user>Admin Sustava</user>
+    <action>Deleted actor with ID: 16</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-24T12:28:05.988521700</timestamp>
+    <user>Admin Sustava</user>
+    <action>Deleted Actor: Novi Glumac</action>
+    <level>WARN</level>
+  </log>
+  <log>
+    <timestamp>2026-05-24T12:28:19.872435600</timestamp>
+    <user>Admin Sustava</user>
+    <action>Updated director with ID: 3 (Promjena Imena)</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-24T12:28:36.748014100</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Novi Direkotr</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-24T12:28:51.024634700</timestamp>
+    <user>Admin Sustava</user>
+    <action>Updated series with ID: 5 (Nova Serija)</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-24T12:28:51.042317700</timestamp>
+    <user>Admin Sustava</user>
+    <action>Saved series: Nova Serija</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-24T12:28:51.069514</timestamp>
+    <user>Admin Sustava</user>
+    <action>Edited series: Nova Serija</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-24T12:28:51.087878300</timestamp>
+    <user>Admin Sustava</user>
+    <action>Series edited: Nova Serija</action>
+    <level>WARN</level>
+  </log>
+  <log>
+    <timestamp>2026-05-24T12:28:57.785624800</timestamp>
+    <user>Admin Sustava</user>
+    <action>Updated series with ID: 5 (Nova Serija)</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-24T12:28:57.803661300</timestamp>
+    <user>Admin Sustava</user>
+    <action>Saved series: Nova Serija</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-24T12:28:57.830525900</timestamp>
+    <user>Admin Sustava</user>
+    <action>Edited series: Nova Serija</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-24T12:28:57.851448</timestamp>
+    <user>Admin Sustava</user>
+    <action>Series edited: Nova Serija</action>
+    <level>WARN</level>
+  </log>
+  <log>
+    <timestamp>2026-05-24T12:29:16.560651300</timestamp>
+    <user>Admin Sustava</user>
+    <action>Deleted director with ID: 3 (Promjena Imena)</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-24T12:29:17.052586</timestamp>
+    <user>Admin Sustava</user>
+    <action>Deleted Director: Promjena Imena</action>
+    <level>WARN</level>
+  </log>
+  <log>
+    <timestamp>2026-05-24T12:29:30.228487500</timestamp>
+    <user>Admin Sustava</user>
+    <action>Deleted director with ID: 5 (Novi Direkotr)</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-24T12:29:30.736879100</timestamp>
+    <user>Admin Sustava</user>
+    <action>Deleted Director: Novi Direkotr</action>
+    <level>WARN</level>
+  </log>
+  <log>
+    <timestamp>2026-05-24T12:30:15.499911500</timestamp>
+    <user>macak macic</user>
+    <action>Added series to watchlist: 5</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-24T12:30:18.340695100</timestamp>
+    <user>macak macic</user>
+    <action>Added series to watchlist: 2</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-24T12:30:23.936450700</timestamp>
+    <user>macak macic</user>
+    <action>Removed series from watchlist: 5</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-24T12:30:24.127043400</timestamp>
+    <user>macak macic</user>
+    <action>Removed series: Nova Serija</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-24T12:30:29.041239800</timestamp>
+    <user>macak macic</user>
+    <action>Removed series from watchlist: 2</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-24T12:30:32.898243400</timestamp>
+    <user>macak macic</user>
+    <action>Removed series from watchlist: 3</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-24T12:30:49.934393200</timestamp>
+    <user>Admin Sustava</user>
+    <action>All series successfully deleted from database.</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-24T12:30:52.327169400</timestamp>
+    <user>System Admin</user>
+    <action>Wiped the entire database and non-default assets.</action>
+    <level>WARN</level>
+  </log>
+  <log>
+    <timestamp>2026-05-24T12:31:15.214610500</timestamp>
+    <user>Korisnik Novi</user>
+    <action>Added new user: Korisnik Novi</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-25T11:41:10.694026900</timestamp>
+    <user>Admin Sustava</user>
+    <action>All series successfully deleted from database.</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-25T11:41:12.046916600</timestamp>
+    <user>System Admin</user>
+    <action>Wiped the entire database and non-default assets.</action>
+    <level>WARN</level>
+  </log>
+  <log>
+    <timestamp>2026-05-25T11:41:15.159689700</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Matt Duffer</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-25T11:41:15.311533200</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: Stranger Things</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-25T11:41:15.434929800</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Jesse Armstrong</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-25T11:41:15.543056400</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: Succession</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-25T11:41:15.643903100</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Christopher Storer</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-25T11:41:15.862010900</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: The Bear</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-25T11:41:16.071927</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Craig Mazin</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-25T11:41:16.239521</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: The Last of Us</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-25T11:41:16.395335800</timestamp>
+    <user>System Admin</user>
+    <action>User triggered automatic online data import.</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-25T11:47:28.499909900</timestamp>
+    <user>Admin Sustava</user>
+    <action>All series successfully deleted from database.</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-25T11:47:30.242616300</timestamp>
+    <user>System Admin</user>
+    <action>Wiped the entire database and non-default assets.</action>
+    <level>WARN</level>
+  </log>
+  <log>
+    <timestamp>2026-05-25T11:48:00.027844600</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Matt Duffer</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-25T11:48:00.184615600</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: Stranger Things</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-25T11:48:00.307945900</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Jesse Armstrong</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-25T11:48:00.414824100</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: Succession</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-25T11:48:00.520126500</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Christopher Storer</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-25T11:48:00.639592400</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: The Bear</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-25T11:48:00.738350</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Craig Mazin</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-25T11:48:00.847271900</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: The Last of Us</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-25T11:48:00.990950800</timestamp>
+    <user>System Admin</user>
+    <action>User triggered automatic online data import.</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-25T11:48:58.073224900</timestamp>
+    <user>Admin Sustava</user>
+    <action>User selected image: 1779702537859_wallpaperflare.com_wallpaper (4).jpg</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-25T11:49:21.868501</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: Nova Serija</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-25T11:49:21.882782900</timestamp>
+    <user>Admin Sustava</user>
+    <action>Saved series: Nova Serija</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-25T11:50:15.579800700</timestamp>
+    <user>Admin Sustava</user>
+    <action>Updated series with ID: 5 (Editirana serija)</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-25T11:50:15.599244900</timestamp>
+    <user>Admin Sustava</user>
+    <action>Saved series: Editirana serija</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-25T11:50:15.615112</timestamp>
+    <user>Admin Sustava</user>
+    <action>Edited series: Editirana serija</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-25T11:50:15.625364900</timestamp>
+    <user>Admin Sustava</user>
+    <action>Series edited: Editirana serija</action>
+    <level>WARN</level>
+  </log>
+  <log>
+    <timestamp>2026-05-25T11:50:45.331681</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new actor: Testni Glumac</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-25T11:51:18.892415100</timestamp>
+    <user>Admin Sustava</user>
+    <action>Updated actor with ID: 19 (Editirani TestniGlumac)</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-25T11:51:57.751350200</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: TestnI Redatelj</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-25T11:52:40.260369200</timestamp>
+    <user>Admin Sustava</user>
+    <action>Updated director with ID: 5 (Editirani TestniRedatelj)</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-25T11:53:14.578783800</timestamp>
+    <user>Admin Sustava</user>
+    <action>Updated series with ID: 5 (Editirana serija)</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-25T11:53:14.593427400</timestamp>
+    <user>Admin Sustava</user>
+    <action>Saved series: Editirana serija</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-25T11:53:14.608780600</timestamp>
+    <user>Admin Sustava</user>
+    <action>Edited series: Editirana serija</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-25T11:53:14.619734800</timestamp>
+    <user>Admin Sustava</user>
+    <action>Series edited: Editirana serija</action>
+    <level>WARN</level>
+  </log>
+  <log>
+    <timestamp>2026-05-25T11:53:32.653368</timestamp>
+    <user>Admin Sustava</user>
+    <action>Deleted series with ID: 5 (Editirana serija)</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-25T11:53:32.665205800</timestamp>
+    <user>Admin Sustava</user>
+    <action>Deleted series: Editirana serija</action>
+    <level>WARN</level>
+  </log>
+  <log>
+    <timestamp>2026-05-25T11:53:43.894958200</timestamp>
+    <user>Admin Sustava</user>
+    <action>Deleted actor with ID: 19</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-25T11:53:43.908017300</timestamp>
+    <user>Admin Sustava</user>
+    <action>Deleted Actor: Editirani TestniGlumac</action>
+    <level>WARN</level>
+  </log>
+  <log>
+    <timestamp>2026-05-25T11:53:53.112156500</timestamp>
+    <user>Admin Sustava</user>
+    <action>Deleted director with ID: 5 (Editirani TestniRedatelj)</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-25T11:53:53.441023800</timestamp>
+    <user>Admin Sustava</user>
+    <action>Deleted Director: Editirani TestniRedatelj</action>
+    <level>WARN</level>
+  </log>
+  <log>
+    <timestamp>2026-05-25T11:55:13.665130</timestamp>
+    <user>Admin Sustava</user>
+    <action>Export: Stranger Things</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-25T11:55:29.889090900</timestamp>
+    <user>Admin Sustava</user>
+    <action>Backup Successful</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-25T11:56:25.901235100</timestamp>
+    <user>macak macic</user>
+    <action>Added series to watchlist: 1</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-25T11:56:29.765048700</timestamp>
+    <user>macak macic</user>
+    <action>Added series to watchlist: 2</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-25T11:56:39.091836600</timestamp>
+    <user>macak macic</user>
+    <action>Removed series from watchlist: 2</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-25T11:56:39.151961</timestamp>
+    <user>macak macic</user>
+    <action>Removed series: Succession</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-25T11:56:42.206271700</timestamp>
+    <user>macak macic</user>
+    <action>Removed series from watchlist: 1</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-25T11:56:42.276603200</timestamp>
+    <user>macak macic</user>
+    <action>Removed series: Stranger Things</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-25T11:57:22.469680100</timestamp>
+    <user>Test Test</user>
+    <action>Added new user: Test Test</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-25T11:57:40.012147900</timestamp>
+    <user>Admin Sustava</user>
+    <action>All series successfully deleted from database.</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-25T11:57:41.266297900</timestamp>
+    <user>System Admin</user>
+    <action>Wiped the entire database and non-default assets.</action>
+    <level>WARN</level>
+  </log>
+  <log>
+    <timestamp>2026-05-25T12:37:55.151952800</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Matt Duffer</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-25T12:37:55.416793500</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: Stranger Things</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-25T12:37:55.534512300</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Jesse Armstrong</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-25T12:37:55.648394300</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: Succession</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-25T12:37:55.745914900</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Christopher Storer</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-25T12:37:55.869896100</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: The Bear</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-25T12:37:55.976487600</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Craig Mazin</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-25T12:37:56.094480300</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: The Last of Us</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-25T12:37:56.355368700</timestamp>
+    <user>System Admin</user>
+    <action>User triggered automatic online data import.</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-25T13:44:57.638095500</timestamp>
+    <user>Admin Sustava</user>
+    <action>Edited series: Stranger Things</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-25T13:44:57.683616300</timestamp>
+    <user>Admin Sustava</user>
+    <action>Series edited: Stranger Things</action>
+    <level>WARN</level>
+  </log>
+  <log>
+    <timestamp>2026-05-25T13:50:22.322925800</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: Nova Serija</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-25T13:50:22.375903400</timestamp>
+    <user>Admin Sustava</user>
+    <action>Saved series: Nova Serija</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-25T13:50:40.286195200</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new actor: Novi Glumac</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-25T13:50:55.467468700</timestamp>
+    <user>Admin Sustava</user>
+    <action>Updated actor with ID: 13 (Editirani Glumac)</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-25T13:51:12.011778800</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Novi Direktor</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-25T13:51:28.771026100</timestamp>
+    <user>Admin Sustava</user>
+    <action>Updated director with ID: 5 (Editirani Direktor)</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-25T13:51:48.493680800</timestamp>
+    <user>Admin Sustava</user>
+    <action>Updated series with ID: 5 (Nova Serija)</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-25T13:51:48.508907200</timestamp>
+    <user>Admin Sustava</user>
+    <action>Saved series: Nova Serija</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-25T13:51:48.531174400</timestamp>
+    <user>Admin Sustava</user>
+    <action>Edited series: Nova Serija</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-25T13:51:48.547416100</timestamp>
+    <user>Admin Sustava</user>
+    <action>Series edited: Nova Serija</action>
+    <level>WARN</level>
+  </log>
+  <log>
+    <timestamp>2026-05-25T13:52:06.198934600</timestamp>
+    <user>Admin Sustava</user>
+    <action>Deleted actor with ID: 13</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-25T13:52:06.213785600</timestamp>
+    <user>Admin Sustava</user>
+    <action>Deleted Actor: Editirani Glumac</action>
+    <level>WARN</level>
+  </log>
+  <log>
+    <timestamp>2026-05-25T13:52:20.862600300</timestamp>
+    <user>Admin Sustava</user>
+    <action>Deleted director with ID: 5 (Editirani Direktor)</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-25T13:52:21.177743500</timestamp>
+    <user>Admin Sustava</user>
+    <action>Deleted Director: Editirani Direktor</action>
+    <level>WARN</level>
+  </log>
+  <log>
+    <timestamp>2026-05-25T13:52:34.341479900</timestamp>
+    <user>Admin Sustava</user>
+    <action>Deleted series with ID: 5 (Nova Serija)</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-25T13:52:34.354992200</timestamp>
+    <user>Admin Sustava</user>
+    <action>Deleted series: Nova Serija</action>
+    <level>WARN</level>
+  </log>
+  <log>
+    <timestamp>2026-05-25T13:52:51.687666700</timestamp>
+    <user>macak macic</user>
+    <action>Added series to watchlist: 2</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-25T13:52:57.649126</timestamp>
+    <user>macak macic</user>
+    <action>Removed series from watchlist: 2</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-25T13:53:11.710672700</timestamp>
+    <user>Admin Sustava</user>
+    <action>All series successfully deleted from database.</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-25T13:53:13.497609500</timestamp>
+    <user>System Admin</user>
+    <action>Wiped the entire database and non-default assets.</action>
+    <level>WARN</level>
+  </log>
+  <log>
+    <timestamp>2026-05-26T10:07:29.473256800</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Matt Duffer</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-26T10:07:29.638644600</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: Stranger Things</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-26T10:07:29.775695200</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Jesse Armstrong</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-26T10:07:29.917135900</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: Succession</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-26T10:07:30.035111</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Christopher Storer</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-26T10:07:30.162630300</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: The Bear</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-26T10:07:30.505649500</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Craig Mazin</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-26T10:07:30.614163600</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: The Last of Us</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-26T10:07:30.758673100</timestamp>
+    <user>System Admin</user>
+    <action>User triggered automatic online data import.</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-26T10:11:30.382023700</timestamp>
+    <user>Admin Sustava</user>
+    <action>User selected image: 1779783090364_images.png</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-26T10:11:33.927154400</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: Nova Serija</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-26T10:11:33.938646</timestamp>
+    <user>Admin Sustava</user>
+    <action>Saved series: Nova Serija</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-26T10:12:17.228977300</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new actor: Novi Glumac</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-26T10:12:42.514266400</timestamp>
+    <user>Admin Sustava</user>
+    <action>Updated actor with ID: 15 (Editirani NoviGlumac)</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-26T10:13:16.532244</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Novi Direktor</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-26T10:13:39.862590400</timestamp>
+    <user>Admin Sustava</user>
+    <action>Updated director with ID: 5 (Editirani NoviDirektor)</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-26T10:14:14.702133400</timestamp>
+    <user>Admin Sustava</user>
+    <action>Updated series with ID: 5 (Editirana Serija)</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-26T10:14:14.715167800</timestamp>
+    <user>Admin Sustava</user>
+    <action>Saved series: Editirana Serija</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-26T10:14:14.735282300</timestamp>
+    <user>Admin Sustava</user>
+    <action>Edited series: Editirana Serija</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-26T10:14:14.747369800</timestamp>
+    <user>Admin Sustava</user>
+    <action>Series edited: Editirana Serija</action>
+    <level>WARN</level>
+  </log>
+  <log>
+    <timestamp>2026-05-26T10:14:26.488353100</timestamp>
+    <user>Admin Sustava</user>
+    <action>Edited series: Editirana Serija</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-26T10:14:26.502353800</timestamp>
+    <user>Admin Sustava</user>
+    <action>Series edited: Editirana Serija</action>
+    <level>WARN</level>
+  </log>
+  <log>
+    <timestamp>2026-05-26T10:14:30.348152400</timestamp>
+    <user>Admin Sustava</user>
+    <action>Deleted series with ID: 5 (Editirana Serija)</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-26T10:14:30.359923</timestamp>
+    <user>Admin Sustava</user>
+    <action>Deleted series: Editirana Serija</action>
+    <level>WARN</level>
+  </log>
+  <log>
+    <timestamp>2026-05-26T10:14:42.173784500</timestamp>
+    <user>Admin Sustava</user>
+    <action>Deleted actor with ID: 15</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-26T10:14:42.186955600</timestamp>
+    <user>Admin Sustava</user>
+    <action>Deleted Actor: Editirani NoviGlumac</action>
+    <level>WARN</level>
+  </log>
+  <log>
+    <timestamp>2026-05-26T10:14:55.176476100</timestamp>
+    <user>Admin Sustava</user>
+    <action>Deleted director with ID: 5 (Editirani NoviDirektor)</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-26T10:14:55.504810100</timestamp>
+    <user>Admin Sustava</user>
+    <action>Deleted Director: Editirani NoviDirektor</action>
+    <level>WARN</level>
+  </log>
+  <log>
+    <timestamp>2026-05-26T10:15:36.798392100</timestamp>
+    <user>Admin Sustava</user>
+    <action>Export: The Last of Us</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-26T10:15:48.859606300</timestamp>
+    <user>Admin Sustava</user>
+    <action>Backup Successful</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-26T10:16:08.396106500</timestamp>
+    <user>macak macic</user>
+    <action>Added series to watchlist: 1</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-26T10:16:11.350470500</timestamp>
+    <user>macak macic</user>
+    <action>Added series to watchlist: 2</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-26T10:16:16.029795800</timestamp>
+    <user>macak macic</user>
+    <action>Removed series from watchlist: 1</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-26T10:16:16.090828100</timestamp>
+    <user>macak macic</user>
+    <action>Removed series: Stranger Things</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-26T10:16:18.889904</timestamp>
+    <user>macak macic</user>
+    <action>Removed series from watchlist: 2</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-26T10:16:18.954725700</timestamp>
+    <user>macak macic</user>
+    <action>Removed series: Succession</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-26T10:16:34.226810300</timestamp>
+    <user>Admin Sustava</user>
+    <action>All series successfully deleted from database.</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-26T10:16:35.841950200</timestamp>
+    <user>System Admin</user>
+    <action>Wiped the entire database and non-default assets.</action>
+    <level>WARN</level>
+  </log>
+  <log>
+    <timestamp>2026-05-27T12:32:01.914777600</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Matt Duffer</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-27T12:32:02.057980900</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: Stranger Things</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-27T12:32:02.148767800</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Jesse Armstrong</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-27T12:32:02.240184700</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: Succession</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-27T12:32:02.323335600</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Christopher Storer</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-27T12:32:02.422188100</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: The Bear</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-27T12:32:02.619152900</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Craig Mazin</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-27T12:32:02.707405500</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: The Last of Us</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-27T12:32:02.718903200</timestamp>
+    <user>System Admin</user>
+    <action>User triggered automatic online data import.</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-27T12:32:38.755429800</timestamp>
+    <user>Admin Sustava</user>
+    <action>All series successfully deleted from database.</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-27T12:32:40.148732800</timestamp>
+    <user>System Admin</user>
+    <action>Wiped the entire database and non-default assets.</action>
+    <level>WARN</level>
+  </log>
+  <log>
+    <timestamp>2026-05-27T13:43:00.106697300</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Matt Duffer</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-27T13:43:00.356685</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: Stranger Things</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-27T13:43:00.520954100</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Jesse Armstrong</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-27T13:43:00.776917700</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: Succession</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-27T13:43:00.916758800</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Christopher Storer</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-27T13:43:01.111866700</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: The Bear</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-27T13:43:01.264631400</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Craig Mazin</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-27T13:43:01.412459600</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: The Last of Us</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-27T13:43:01.430135400</timestamp>
+    <user>System Admin</user>
+    <action>User triggered automatic online data import.</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-27T13:43:26.395675</timestamp>
+    <user>macak macic</user>
+    <action>Added series to watchlist: 1</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-27T13:43:31.541765100</timestamp>
+    <user>macak macic</user>
+    <action>Removed series from watchlist: 1</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-27T13:43:31.640204700</timestamp>
+    <user>macak macic</user>
+    <action>Removed series: Stranger Things</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-27T13:52:22.441725500</timestamp>
+    <user>Admin Sustava</user>
+    <action>All series successfully deleted from database.</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-27T13:52:23.897621200</timestamp>
+    <user>System Admin</user>
+    <action>Wiped the entire database and non-default assets.</action>
+    <level>WARN</level>
+  </log>
+  <log>
+    <timestamp>2026-05-28T12:54:13.125015</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Matt Duffer</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-28T12:54:13.279210500</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: Stranger Things</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-28T12:54:13.389516900</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Jesse Armstrong</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-28T12:54:13.488328700</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: Succession</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-28T12:54:13.589549500</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Christopher Storer</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-28T12:54:13.796273100</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: The Bear</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-28T12:54:13.886311800</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Craig Mazin</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-28T12:54:13.981701300</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: The Last of Us</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-28T12:54:13.995295100</timestamp>
+    <user>System Admin</user>
+    <action>User triggered automatic online data import.</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-28T12:55:46.783265400</timestamp>
+    <user>Admin Sustava</user>
+    <action>Edited series: Stranger Things</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-28T12:55:46.799354</timestamp>
+    <user>Admin Sustava</user>
+    <action>Series edited: Stranger Things</action>
+    <level>WARN</level>
+  </log>
+  <log>
+    <timestamp>2026-05-28T13:02:58.581002</timestamp>
+    <user>Admin Sustava</user>
+    <action>User selected image: 1779966178527_1sNpz7Q.jpg</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-28T13:03:08.791676400</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: Nova serija</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-28T13:03:08.811113500</timestamp>
+    <user>Admin Sustava</user>
+    <action>Saved series: Nova serija</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-28T13:04:29.713204900</timestamp>
+    <user>Admin Sustava</user>
+    <action>Updated series with ID: 5 (Editirana Nova Serija)</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-28T13:04:29.729419900</timestamp>
+    <user>Admin Sustava</user>
+    <action>Saved series: Editirana Nova Serija</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-28T13:04:29.751597100</timestamp>
+    <user>Admin Sustava</user>
+    <action>Edited series: Editirana Nova Serija</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-28T13:04:29.767226300</timestamp>
+    <user>Admin Sustava</user>
+    <action>Series edited: Editirana Nova Serija</action>
+    <level>WARN</level>
+  </log>
+  <log>
+    <timestamp>2026-05-28T13:04:54.225744300</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new actor: Novi Glumac</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-28T13:05:12.343349900</timestamp>
+    <user>Admin Sustava</user>
+    <action>Updated actor with ID: 18 (NoviEditirani Glumac)</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-28T13:05:31.882311600</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Novi Direktor</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-28T13:05:51.408349100</timestamp>
+    <user>Admin Sustava</user>
+    <action>Updated director with ID: 5 (NoviEditirani Direktor)</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-28T13:06:13.937152700</timestamp>
+    <user>Admin Sustava</user>
+    <action>Updated series with ID: 5 (Editirana Nova Serija)</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-28T13:06:13.948541700</timestamp>
+    <user>Admin Sustava</user>
+    <action>Saved series: Editirana Nova Serija</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-28T13:06:13.966191400</timestamp>
+    <user>Admin Sustava</user>
+    <action>Edited series: Editirana Nova Serija</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-28T13:06:13.977450700</timestamp>
+    <user>Admin Sustava</user>
+    <action>Series edited: Editirana Nova Serija</action>
+    <level>WARN</level>
+  </log>
+  <log>
+    <timestamp>2026-05-28T13:06:26.197331900</timestamp>
+    <user>Admin Sustava</user>
+    <action>Deleted series with ID: 5 (Editirana Nova Serija)</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-28T13:06:26.211167</timestamp>
+    <user>Admin Sustava</user>
+    <action>Deleted series: Editirana Nova Serija</action>
+    <level>WARN</level>
+  </log>
+  <log>
+    <timestamp>2026-05-28T13:06:38.043004200</timestamp>
+    <user>Admin Sustava</user>
+    <action>Deleted actor with ID: 18</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-28T13:06:38.056332600</timestamp>
+    <user>Admin Sustava</user>
+    <action>Deleted Actor: NoviEditirani Glumac</action>
+    <level>WARN</level>
+  </log>
+  <log>
+    <timestamp>2026-05-28T13:06:52.246694900</timestamp>
+    <user>Admin Sustava</user>
+    <action>Deleted director with ID: 5 (NoviEditirani Direktor)</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-28T13:06:52.297838100</timestamp>
+    <user>Admin Sustava</user>
+    <action>Deleted Director: NoviEditirani Direktor</action>
+    <level>WARN</level>
+  </log>
+  <log>
+    <timestamp>2026-05-28T13:07:33.927435</timestamp>
+    <user>Admin Sustava</user>
+    <action>Export: Stranger Things</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-28T13:07:44.397748</timestamp>
+    <user>Admin Sustava</user>
+    <action>Backup Successful</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-28T13:07:58.463645</timestamp>
+    <user>macak macic</user>
+    <action>Added series to watchlist: 1</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-28T13:08:01.638089300</timestamp>
+    <user>macak macic</user>
+    <action>Added series to watchlist: 2</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-28T13:08:05.939305300</timestamp>
+    <user>macak macic</user>
+    <action>Removed series from watchlist: 1</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-28T13:08:05.991141</timestamp>
+    <user>macak macic</user>
+    <action>Removed series: Stranger Things</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-28T13:08:11.214201</timestamp>
+    <user>macak macic</user>
+    <action>Removed series from watchlist: 2</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-28T13:12:48.149442600</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: Noa</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-28T13:12:48.191726500</timestamp>
+    <user>Admin Sustava</user>
+    <action>Saved series: Noa</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-28T13:13:09.758269</timestamp>
+    <user>Admin Sustava</user>
+    <action>All series successfully deleted from database.</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-28T13:13:11.030881600</timestamp>
+    <user>System Admin</user>
+    <action>Wiped the entire database and non-default assets.</action>
+    <level>WARN</level>
+  </log>
+  <log>
+    <timestamp>2026-05-28T13:38:59.795751700</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Matt Duffer</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-28T13:38:59.977761800</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: Stranger Things</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-28T13:39:00.185779</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Jesse Armstrong</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-28T13:39:00.294144100</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: Succession</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-28T13:39:00.502524900</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Christopher Storer</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-28T13:39:00.623903100</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: The Bear</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-28T13:39:00.727726600</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Craig Mazin</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-28T13:39:00.840112800</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: The Last of Us</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-28T13:39:00.853599900</timestamp>
+    <user>System Admin</user>
+    <action>User triggered automatic online data import.</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-28T13:40:51.062229300</timestamp>
+    <user>Admin Sustava</user>
+    <action>All series successfully deleted from database.</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-28T13:40:52.198272500</timestamp>
+    <user>System Admin</user>
+    <action>Wiped the entire database and non-default assets.</action>
+    <level>WARN</level>
+  </log>
+  <log>
+    <timestamp>2026-05-28T13:40:54.788547400</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Matt Duffer</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-28T13:40:54.903295800</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: Stranger Things</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-28T13:40:55.006618700</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Jesse Armstrong</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-28T13:40:55.117231700</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: Succession</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-28T13:40:55.206674100</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Christopher Storer</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-28T13:40:55.304987200</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: The Bear</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-28T13:40:55.387517400</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Craig Mazin</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-28T13:40:55.480680400</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: The Last of Us</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-28T13:40:55.492015400</timestamp>
+    <user>System Admin</user>
+    <action>User triggered automatic online data import.</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-30T10:00:50.299907400</timestamp>
+    <user>Admin Sustava</user>
+    <action>All series successfully deleted from database.</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-05-30T10:00:51.704378</timestamp>
+    <user>System Admin</user>
+    <action>Wiped the entire database and non-default assets.</action>
+    <level>WARN</level>
+  </log>
+  <log>
+    <timestamp>2026-06-04T14:42:22.016227600</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Matt Duffer</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-04T14:42:22.202241300</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: Stranger Things</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-04T14:42:22.315817800</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Jesse Armstrong</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-04T14:42:22.433784400</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: Succession</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-04T14:42:22.543123400</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Christopher Storer</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-04T14:42:22.698757500</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: The Bear</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-04T14:42:22.797779400</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Craig Mazin</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-04T14:42:22.908168100</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: The Last of Us</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-04T14:42:22.925619400</timestamp>
+    <user>System Admin</user>
+    <action>User triggered automatic online data import.</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-04T14:42:48.320305700</timestamp>
+    <user>Admin Sustava</user>
+    <action>Export: Stranger Things</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-04T14:42:58.340117400</timestamp>
+    <user>Admin Sustava</user>
+    <action>Backup Successful</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-04T14:43:08.565104200</timestamp>
+    <user>Admin Sustava</user>
+    <action>All series successfully deleted from database.</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-04T14:43:11.373687200</timestamp>
+    <user>System Admin</user>
+    <action>Wiped the entire database and non-default assets.</action>
+    <level>WARN</level>
+  </log>
+  <log>
+    <timestamp>2026-06-04T14:47:23.607718</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Matt Duffer</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-04T14:47:23.881800400</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: Stranger Things</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-04T14:47:24.002710800</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Jesse Armstrong</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-04T14:47:24.121766600</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: Succession</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-04T14:47:24.233744700</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Christopher Storer</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-04T14:47:24.364677500</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: The Bear</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-04T14:47:24.463034700</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Craig Mazin</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-04T14:47:24.573064800</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: The Last of Us</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-04T14:47:24.588712</timestamp>
+    <user>System Admin</user>
+    <action>User triggered automatic online data import.</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-04T14:47:43.148335800</timestamp>
+    <user>Admin Sustava</user>
+    <action>Export: Succession</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-04T14:48:51.232037300</timestamp>
+    <user>Admin Sustava</user>
+    <action>All series successfully deleted from database.</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-04T14:48:52.659937</timestamp>
+    <user>System Admin</user>
+    <action>Wiped the entire database and non-default assets.</action>
+    <level>WARN</level>
+  </log>
+  <log>
+    <timestamp>2026-06-08T11:24:29.467913900</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Matt Duffer</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-08T11:24:29.604343</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: Stranger Things</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-08T11:24:29.802156400</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Jesse Armstrong</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-08T11:24:29.895238100</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: Succession</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-08T11:24:29.986111100</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Christopher Storer</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-08T11:24:30.091438300</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: The Bear</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-08T11:24:30.175887</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Craig Mazin</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-08T11:24:30.265256400</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: The Last of Us</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-08T11:24:30.277260200</timestamp>
+    <user>System Admin</user>
+    <action>User triggered automatic online data import.</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-08T11:35:08.090590600</timestamp>
+    <user>System Admin</user>
+    <action>User triggered automatic online data import.</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-08T11:36:27.687937400</timestamp>
+    <user>Admin Sustava</user>
+    <action>All series successfully deleted from database.</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-08T11:36:29.511351800</timestamp>
+    <user>System Admin</user>
+    <action>Wiped the entire database and non-default assets.</action>
+    <level>WARN</level>
+  </log>
+  <log>
+    <timestamp>2026-06-08T11:36:38.551871400</timestamp>
+    <user>System Admin</user>
+    <action>User triggered automatic online data import.</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-08T11:38:57.402275500</timestamp>
+    <user>Admin Sustava</user>
+    <action>All series successfully deleted from database.</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-08T11:38:58.427306100</timestamp>
+    <user>System Admin</user>
+    <action>Wiped the entire database and non-default assets.</action>
+    <level>WARN</level>
+  </log>
+  <log>
+    <timestamp>2026-06-08T11:39:00.006229400</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Matt Duffer</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-08T11:39:00.246016400</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: Stranger Things</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-08T11:39:00.345353300</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Jesse Armstrong</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-08T11:39:00.568580</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: Succession</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-08T11:39:00.655607300</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Christopher Storer</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-08T11:39:00.754236800</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: The Bear</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-08T11:39:00.843408100</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Craig Mazin</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-08T11:39:00.936041300</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: The Last of Us</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-08T11:39:00.950040200</timestamp>
+    <user>System Admin</user>
+    <action>User triggered automatic online data import.</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-08T11:39:30.988006700</timestamp>
+    <user>Admin Sustava</user>
+    <action>Export: Stranger Things</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-08T11:39:41.307922800</timestamp>
+    <user>Admin Sustava</user>
+    <action>Backup Successful</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-08T12:02:42.364011900</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: Stranger Things</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-08T12:02:42.492200100</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: Succession</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-08T12:02:42.594927400</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: The Bear</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-08T12:02:42.801457300</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: The Last of Us</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-08T12:02:42.816092400</timestamp>
+    <user>System Admin</user>
+    <action>User triggered automatic online data import.</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-08T12:03:00.277516500</timestamp>
+    <user>Admin Sustava</user>
+    <action>All series successfully deleted from database.</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-08T12:03:01.970288800</timestamp>
+    <user>System Admin</user>
+    <action>Wiped the entire database and non-default assets.</action>
+    <level>WARN</level>
+  </log>
+  <log>
+    <timestamp>2026-06-08T12:03:03.099451700</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Matt Duffer</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-08T12:03:03.198725400</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: Stranger Things</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-08T12:03:03.281157800</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Jesse Armstrong</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-08T12:03:03.367855</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: Succession</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-08T12:03:03.453093100</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Christopher Storer</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-08T12:03:03.539132300</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: The Bear</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-08T12:03:03.619042100</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Craig Mazin</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-08T12:03:03.705542400</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: The Last of Us</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-08T12:03:03.715814300</timestamp>
+    <user>System Admin</user>
+    <action>User triggered automatic online data import.</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-08T12:03:26.722646100</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new actor: Novi Glumac</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-08T12:04:14.880485700</timestamp>
+    <user>Admin Sustava</user>
+    <action>User selected image: 1780913054869_0PJmoxd.jpg</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-08T12:04:22.320202100</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: Nova Serija</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-08T12:04:22.330144200</timestamp>
+    <user>Admin Sustava</user>
+    <action>Saved series: Nova Serija</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-08T12:04:53.804554300</timestamp>
+    <user>Admin Sustava</user>
+    <action>Updated actor with ID: 11 (Najnoviji Glumcic)</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-08T12:05:13.855865900</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Novi Direktor</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-08T12:05:42.612068100</timestamp>
+    <user>Admin Sustava</user>
+    <action>Updated director with ID: 5 (NajnovijiDirektor JosNoviji)</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-08T12:06:29.186920200</timestamp>
+    <user>Admin Sustava</user>
+    <action>Updated series with ID: 5 (Nova Editirana Serija)</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-08T12:06:29.200344300</timestamp>
+    <user>Admin Sustava</user>
+    <action>Saved series: Nova Editirana Serija</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-08T12:06:29.215723100</timestamp>
+    <user>Admin Sustava</user>
+    <action>Edited series: Nova Editirana Serija</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-08T12:06:29.224978400</timestamp>
+    <user>Admin Sustava</user>
+    <action>Series edited: Nova Editirana Serija</action>
+    <level>WARN</level>
+  </log>
+  <log>
+    <timestamp>2026-06-08T12:06:47.934757300</timestamp>
+    <user>Admin Sustava</user>
+    <action>Updated series with ID: 5 (Nova Editirana Serija)</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-08T12:06:47.945764900</timestamp>
+    <user>Admin Sustava</user>
+    <action>Saved series: Nova Editirana Serija</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-08T12:06:47.959827200</timestamp>
+    <user>Admin Sustava</user>
+    <action>Edited series: Nova Editirana Serija</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-08T12:06:47.970021800</timestamp>
+    <user>Admin Sustava</user>
+    <action>Series edited: Nova Editirana Serija</action>
+    <level>WARN</level>
+  </log>
+  <log>
+    <timestamp>2026-06-08T12:07:25.680271400</timestamp>
+    <user>Admin Sustava</user>
+    <action>Deleted series with ID: 5 (Nova Editirana Serija)</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-08T12:07:25.692953900</timestamp>
+    <user>Admin Sustava</user>
+    <action>Deleted series: Nova Editirana Serija</action>
+    <level>WARN</level>
+  </log>
+  <log>
+    <timestamp>2026-06-08T12:07:37.224233500</timestamp>
+    <user>Admin Sustava</user>
+    <action>Deleted actor with ID: 11</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-08T12:07:37.233881100</timestamp>
+    <user>Admin Sustava</user>
+    <action>Deleted Actor: Najnoviji Glumcic</action>
+    <level>WARN</level>
+  </log>
+  <log>
+    <timestamp>2026-06-08T12:07:49.843574900</timestamp>
+    <user>Admin Sustava</user>
+    <action>Deleted director with ID: 5 (NajnovijiDirektor JosNoviji)</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-08T12:07:49.890942100</timestamp>
+    <user>Admin Sustava</user>
+    <action>Deleted Director: NajnovijiDirektor JosNoviji</action>
+    <level>WARN</level>
+  </log>
+  <log>
+    <timestamp>2026-06-08T12:08:08.615698200</timestamp>
+    <user>macak macic</user>
+    <action>Added series to watchlist: 1</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-08T12:08:11.459018100</timestamp>
+    <user>macak macic</user>
+    <action>Added series to watchlist: 2</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-08T12:08:15.633171300</timestamp>
+    <user>macak macic</user>
+    <action>Removed series from watchlist: 1</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-08T12:08:15.681917100</timestamp>
+    <user>macak macic</user>
+    <action>Removed series: Stranger Things</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-08T12:08:20.339329700</timestamp>
+    <user>macak macic</user>
+    <action>Removed series from watchlist: 2</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-08T12:14:26.669253900</timestamp>
+    <user>macak macic</user>
+    <action>Added series to watchlist: 1</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-08T12:17:18.792053500</timestamp>
+    <user>macak macic</user>
+    <action>Removed series from watchlist: 1</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-08T12:17:19.056049500</timestamp>
+    <user>macak macic</user>
+    <action>Removed series: Stranger Things</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-08T12:17:23.876424400</timestamp>
+    <user>macak macic</user>
+    <action>Added series to watchlist: 1</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-08T12:17:26.932232600</timestamp>
+    <user>macak macic</user>
+    <action>Added series to watchlist: 2</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-08T12:17:39.146757100</timestamp>
+    <user>macak macic</user>
+    <action>Removed series from watchlist: 1</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-08T12:17:39.282913300</timestamp>
+    <user>macak macic</user>
+    <action>Removed series: Stranger Things</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-08T12:17:42.097545900</timestamp>
+    <user>macak macic</user>
+    <action>Removed series from watchlist: 2</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-08T12:17:42.181817900</timestamp>
+    <user>macak macic</user>
+    <action>Removed series: Succession</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-08T12:17:59.668412900</timestamp>
+    <user>Admin Sustava</user>
+    <action>All series successfully deleted from database.</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-08T12:18:00.748913100</timestamp>
+    <user>System Admin</user>
+    <action>Wiped the entire database and non-default assets.</action>
+    <level>WARN</level>
+  </log>
+  <log>
+    <timestamp>2026-06-08T17:04:52.378732900</timestamp>
+    <user>Korisnik Probni</user>
+    <action>Added new user: Korisnik Probni</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-09T12:02:26.020033900</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Matt Duffer</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-09T12:02:26.186601300</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: Stranger Things</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-09T12:02:26.354527200</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Jesse Armstrong</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-09T12:02:26.486974100</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: Succession</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-09T12:02:26.616699</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Christopher Storer</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-09T12:02:26.729521900</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: The Bear</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-09T12:02:26.830432</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Craig Mazin</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-09T12:02:26.946821600</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: The Last of Us</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-09T12:02:26.961105400</timestamp>
+    <user>System Admin</user>
+    <action>User triggered automatic online data import.</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-09T12:02:53.165505</timestamp>
+    <user>macak macic</user>
+    <action>Added series to watchlist: 1</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-09T12:02:59.707760100</timestamp>
+    <user>macak macic</user>
+    <action>Added series to watchlist: 2</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-09T12:03:07.939006500</timestamp>
+    <user>macak macic</user>
+    <action>Removed series from watchlist: 1</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-09T12:03:08.009957100</timestamp>
+    <user>macak macic</user>
+    <action>Removed series: Stranger Things</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-09T12:03:11.026842700</timestamp>
+    <user>macak macic</user>
+    <action>Removed series from watchlist: 2</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-09T12:03:11.090711400</timestamp>
+    <user>macak macic</user>
+    <action>Removed series: Succession</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-09T12:03:23.390046200</timestamp>
+    <user>Admin Sustava</user>
+    <action>All series successfully deleted from database.</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-09T12:03:24.787139100</timestamp>
+    <user>System Admin</user>
+    <action>Wiped the entire database and non-default assets.</action>
+    <level>WARN</level>
+  </log>
+  <log>
+    <timestamp>2026-06-09T12:35:20.093669</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Matt Duffer</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-09T12:35:20.219548300</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: Stranger Things</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-09T12:35:20.314400</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Jesse Armstrong</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-09T12:35:20.414831700</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: Succession</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-09T12:35:20.508185800</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Christopher Storer</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-09T12:35:20.602859200</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: The Bear</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-09T12:35:20.686919100</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Craig Mazin</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-09T12:35:20.774184700</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: The Last of Us</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-09T12:35:20.786357900</timestamp>
+    <user>System Admin</user>
+    <action>User triggered automatic online data import.</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-09T12:36:03.568418</timestamp>
+    <user>Admin Sustava</user>
+    <action>User selected image: 1781001363555_0PJmoxd.jpg</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-09T12:36:16.063958800</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: Nova Serija</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-09T12:36:16.075290300</timestamp>
+    <user>Admin Sustava</user>
+    <action>Saved series: Nova Serija</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-09T12:36:37.552158100</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new actor: Novi Glumac</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-09T12:37:01.663603500</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Novi Direktor</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-09T12:37:37.699028600</timestamp>
+    <user>Admin Sustava</user>
+    <action>Updated actor with ID: 15 (Najnoviji NoviGlumac)</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-09T12:38:08.654209700</timestamp>
+    <user>Admin Sustava</user>
+    <action>Updated director with ID: 5 (Najnoviji NoviDirektor)</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-09T12:38:47.970828</timestamp>
+    <user>Admin Sustava</user>
+    <action>User selected image: 1781001527959__1254190.jpg</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-09T12:38:56.433393600</timestamp>
+    <user>Admin Sustava</user>
+    <action>Updated series with ID: 5 (Editirana Nova Serija)</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-09T12:38:56.443392300</timestamp>
+    <user>Admin Sustava</user>
+    <action>Saved series: Editirana Nova Serija</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-09T12:38:56.457276800</timestamp>
+    <user>Admin Sustava</user>
+    <action>Edited series: Editirana Nova Serija</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-09T12:38:56.466284800</timestamp>
+    <user>Admin Sustava</user>
+    <action>Series edited: Editirana Nova Serija</action>
+    <level>WARN</level>
+  </log>
+  <log>
+    <timestamp>2026-06-09T12:39:40.185641700</timestamp>
+    <user>Admin Sustava</user>
+    <action>Deleted actor with ID: 15</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-09T12:39:40.197063200</timestamp>
+    <user>Admin Sustava</user>
+    <action>Deleted Actor: Najnoviji NoviGlumac</action>
+    <level>WARN</level>
+  </log>
+  <log>
+    <timestamp>2026-06-09T12:39:54.791779</timestamp>
+    <user>Admin Sustava</user>
+    <action>Deleted director with ID: 5 (Najnoviji NoviDirektor)</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-09T12:39:54.838017100</timestamp>
+    <user>Admin Sustava</user>
+    <action>Deleted Director: Najnoviji NoviDirektor</action>
+    <level>WARN</level>
+  </log>
+  <log>
+    <timestamp>2026-06-09T12:40:18.355137</timestamp>
+    <user>Admin Sustava</user>
+    <action>Updated series with ID: 5 (Editirana Nova Serija)</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-09T12:40:18.365148200</timestamp>
+    <user>Admin Sustava</user>
+    <action>Saved series: Editirana Nova Serija</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-09T12:40:18.378303300</timestamp>
+    <user>Admin Sustava</user>
+    <action>Edited series: Editirana Nova Serija</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-09T12:40:18.388819400</timestamp>
+    <user>Admin Sustava</user>
+    <action>Series edited: Editirana Nova Serija</action>
+    <level>WARN</level>
+  </log>
+  <log>
+    <timestamp>2026-06-09T12:40:24.935839500</timestamp>
+    <user>Admin Sustava</user>
+    <action>Deleted series with ID: 5 (Editirana Nova Serija)</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-09T12:40:24.944869300</timestamp>
+    <user>Admin Sustava</user>
+    <action>Deleted series: Editirana Nova Serija</action>
+    <level>WARN</level>
+  </log>
+  <log>
+    <timestamp>2026-06-09T12:40:40.482988800</timestamp>
+    <user>Admin Sustava</user>
+    <action>Export: Stranger Things</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-09T12:40:50.407695400</timestamp>
+    <user>Admin Sustava</user>
+    <action>Backup Successful</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-09T12:41:08.686745500</timestamp>
+    <user>macak macic</user>
+    <action>Added series to watchlist: 1</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-09T12:41:11.434944400</timestamp>
+    <user>macak macic</user>
+    <action>Added series to watchlist: 2</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-09T12:41:16.680303</timestamp>
+    <user>macak macic</user>
+    <action>Removed series from watchlist: 1</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-09T12:41:16.727830200</timestamp>
+    <user>macak macic</user>
+    <action>Removed series: Stranger Things</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-09T12:41:19.671613100</timestamp>
+    <user>macak macic</user>
+    <action>Removed series from watchlist: 2</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-09T12:41:19.719081400</timestamp>
+    <user>macak macic</user>
+    <action>Removed series: Succession</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-09T12:41:34.821464400</timestamp>
+    <user>Admin Sustava</user>
+    <action>All series successfully deleted from database.</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-09T12:41:36.003754</timestamp>
+    <user>System Admin</user>
+    <action>Wiped the entire database and non-default assets.</action>
+    <level>WARN</level>
+  </log>
+  <log>
+    <timestamp>2026-06-09T12:42:16.044491500</timestamp>
+    <user>Subic Nikola</user>
+    <action>Added new user: Subic Nikola</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-11T15:30:03.795816500</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Matt Duffer</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-11T15:30:04.156846700</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: Stranger Things</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-11T15:30:04.315680800</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Jesse Armstrong</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-11T15:30:04.484800500</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: Succession</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-11T15:30:04.643393700</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Christopher Storer</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-11T15:30:04.793970700</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: The Bear</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-11T15:30:04.932336100</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Craig Mazin</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-11T15:30:05.081280400</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: The Last of Us</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-11T15:30:05.099346100</timestamp>
+    <user>System Admin</user>
+    <action>User triggered automatic online data import.</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-11T15:30:20.151475700</timestamp>
+    <user>macak macic</user>
+    <action>Added series to watchlist: 1</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-11T15:30:32.569553400</timestamp>
+    <user>macak macic</user>
+    <action>Added series to watchlist: 2</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-11T15:30:38.427767100</timestamp>
+    <user>macak macic</user>
+    <action>Removed series from watchlist: 2</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-11T15:30:38.519291200</timestamp>
+    <user>macak macic</user>
+    <action>Removed series: Succession</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-11T15:30:43.804184700</timestamp>
+    <user>macak macic</user>
+    <action>Removed series from watchlist: 1</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-11T15:30:57.914507300</timestamp>
+    <user>Admin Sustava</user>
+    <action>All series successfully deleted from database.</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-11T15:30:58.956602700</timestamp>
+    <user>System Admin</user>
+    <action>Wiped the entire database and non-default assets.</action>
+    <level>WARN</level>
+  </log>
+  <log>
+    <timestamp>2026-06-11T17:33:33.109234800</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Matt Duffer</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-11T17:33:33.490095600</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: Stranger Things</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-11T17:33:33.646897400</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Jesse Armstrong</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-11T17:33:33.821931800</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: Succession</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-11T17:33:34.095567500</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Christopher Storer</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-11T17:33:34.246565700</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: The Bear</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-11T17:33:34.398692700</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Craig Mazin</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-11T17:33:34.691562100</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: The Last of Us</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-11T17:33:34.712178600</timestamp>
+    <user>System Admin</user>
+    <action>User triggered automatic online data import.</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-11T20:24:46.675595300</timestamp>
+    <user>System Admin</user>
+    <action>User triggered automatic online data import.</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-11T20:25:24.721883600</timestamp>
+    <user>Admin Sustava</user>
+    <action>All series successfully deleted from database.</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-11T20:25:26.797344700</timestamp>
+    <user>System Admin</user>
+    <action>Wiped the entire database and non-default assets.</action>
+    <level>WARN</level>
+  </log>
+  <log>
+    <timestamp>2026-06-11T20:28:56.392364100</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: Stranger Things</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-11T20:28:56.727605900</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: Succession</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-11T20:28:56.890132100</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: The Bear</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-11T20:28:57.161392</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: The Last of Us</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-11T20:28:57.191020400</timestamp>
+    <user>System Admin</user>
+    <action>User triggered automatic online data import.</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-11T20:29:18.822309200</timestamp>
+    <user>Admin Sustava</user>
+    <action>All series successfully deleted from database.</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-11T20:29:21.050449200</timestamp>
+    <user>System Admin</user>
+    <action>Wiped the entire database and non-default assets.</action>
+    <level>WARN</level>
+  </log>
+  <log>
+    <timestamp>2026-06-12T18:34:15.422171200</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: Stranger Things</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-12T18:34:15.559640500</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: Succession</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-12T18:34:15.662295100</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: The Bear</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-12T18:34:15.770969500</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: The Last of Us</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-12T18:34:15.785564100</timestamp>
+    <user>Admin Sustava</user>
+    <action>User triggered automatic online data import.</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-12T18:34:37.418670100</timestamp>
+    <user>macak macic</user>
+    <action>Added series to watchlist: 1</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-12T18:34:45.775528800</timestamp>
+    <user>macak macic</user>
+    <action>Added series to watchlist: 1</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-12T18:38:39.092794300</timestamp>
+    <user>Admin Sustava</user>
+    <action>All series successfully deleted from database.</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-12T18:38:40.248672100</timestamp>
+    <user>Admin Sustava</user>
+    <action>Wiped the entire database and non-default assets.</action>
+    <level>WARN</level>
+  </log>
+  <log>
+    <timestamp>2026-06-13T13:06:17.662879800</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: Stranger Things</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-13T13:06:17.796962700</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: Succession</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-13T13:06:17.901518400</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: The Bear</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-13T13:06:17.997747900</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: The Last of Us</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-13T13:06:18.013638</timestamp>
+    <user>Admin Sustava</user>
+    <action>User triggered automatic online data import.</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-13T13:06:37.931452</timestamp>
+    <user>Admin Sustava</user>
+    <action>Edited series: Stranger Things</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-13T13:06:37.945681800</timestamp>
+    <user>Admin Sustava</user>
+    <action>Series edited: Stranger Things</action>
+    <level>WARN</level>
+  </log>
+  <log>
+    <timestamp>2026-06-13T13:06:55.097006300</timestamp>
+    <user>Admin Sustava</user>
+    <action>All series successfully deleted from database.</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-13T13:06:56.526623800</timestamp>
+    <user>Admin Sustava</user>
+    <action>Wiped the entire database and non-default assets.</action>
+    <level>WARN</level>
+  </log>
+  <log>
+    <timestamp>2026-06-13T13:29:19.280346500</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: Stranger Things</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-13T13:29:19.515200900</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: Succession</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-13T13:29:19.711253100</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: The Bear</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-13T13:29:19.879562500</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: The Last of Us</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-13T13:29:19.903801800</timestamp>
+    <user>Admin Sustava</user>
+    <action>User triggered automatic online data import.</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-13T13:40:29.263667200</timestamp>
+    <user>Admin Sustava</user>
+    <action>All series successfully deleted from database.</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-13T13:40:30.477336700</timestamp>
+    <user>Admin Sustava</user>
+    <action>Wiped the entire database and non-default assets.</action>
+    <level>WARN</level>
+  </log>
+  <log>
+    <timestamp>2026-06-13T14:39:54.155000200</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: Stranger Things</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-13T14:39:54.393100700</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: Succession</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-13T14:39:54.669741800</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: The Bear</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-13T14:39:54.864332600</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: The Last of Us</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-13T14:39:54.902588300</timestamp>
+    <user>Admin Sustava</user>
+    <action>User triggered automatic online data import.</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-13T14:40:11.521031400</timestamp>
+    <user>macak macic</user>
+    <action>Added series to watchlist: 1</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-13T14:40:15.480876300</timestamp>
+    <user>macak macic</user>
+    <action>Added series to watchlist: 2</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-13T14:40:22.396885800</timestamp>
+    <user>macak macic</user>
+    <action>Removed series from watchlist: 1</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-13T14:40:22.498342600</timestamp>
+    <user>macak macic</user>
+    <action>Removed series: Stranger Things</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-13T14:40:26.698102200</timestamp>
+    <user>macak macic</user>
+    <action>Removed series from watchlist: 2</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-13T14:40:39.568862600</timestamp>
+    <user>Admin Sustava</user>
+    <action>All series successfully deleted from database.</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-13T14:40:40.614493900</timestamp>
+    <user>Admin Sustava</user>
+    <action>Wiped the entire database and non-default assets.</action>
+    <level>WARN</level>
+  </log>
+  <log>
+    <timestamp>2026-06-13T15:50:52.207442500</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: Stranger Things</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-13T15:50:52.462152300</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: Succession</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-13T15:50:52.642196400</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: The Bear</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-13T15:50:52.828544800</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: The Last of Us</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-13T15:50:52.848299700</timestamp>
+    <user>Admin Sustava</user>
+    <action>User triggered automatic online data import.</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-13T15:52:51.146095500</timestamp>
+    <user>Admin Sustava</user>
+    <action>All series successfully deleted from database.</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-13T15:52:52.842484500</timestamp>
+    <user>Admin Sustava</user>
+    <action>Wiped the entire database and non-default assets.</action>
+    <level>WARN</level>
+  </log>
+  <log>
+    <timestamp>2026-06-14T13:12:43.025351300</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: Stranger Things</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-14T13:12:43.225933400</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: Succession</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-14T13:12:43.355807</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: The Bear</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-14T13:12:43.503542200</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: The Last of Us</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-14T13:12:43.521553400</timestamp>
+    <user>Admin Sustava</user>
+    <action>User started automatic online data import.</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-14T13:18:39.696189300</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: Stranger Things</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-14T13:18:39.857747900</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: Succession</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-14T13:18:40.009688300</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: The Bear</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-14T13:18:40.140782400</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: The Last of Us</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-14T13:18:40.158917200</timestamp>
+    <user>Admin Sustava</user>
+    <action>User started automatic online data import.</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-14T13:19:48.697755200</timestamp>
+    <user>macak macic</user>
+    <action>Added series to watchlist: 1</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-14T13:19:52.164706600</timestamp>
+    <user>macak macic</user>
+    <action>Added series to watchlist: 6</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-14T13:19:56.765094700</timestamp>
+    <user>macak macic</user>
+    <action>Removed series from watchlist: 1</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-14T13:19:56.821051600</timestamp>
+    <user>macak macic</user>
+    <action>Removed series: Stranger Things</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-14T13:20:00.819616200</timestamp>
+    <user>macak macic</user>
+    <action>Removed series from watchlist: 6</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-14T13:20:14.125842300</timestamp>
+    <user>Admin Sustava</user>
+    <action>All series successfully deleted from database.</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-14T13:20:15.222569100</timestamp>
+    <user>Admin Sustava</user>
+    <action>Deleted the entire database and non-default assets.</action>
+    <level>WARN</level>
+  </log>
+  <log>
+    <timestamp>2026-06-14T13:20:29.260259300</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: Stranger Things</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-14T13:20:29.463862500</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: Succession</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-14T13:20:29.557360100</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: The Bear</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-14T13:20:29.648164200</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: The Last of Us</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-14T13:20:29.658354600</timestamp>
+    <user>Admin Sustava</user>
+    <action>User started automatic online data import.</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-14T13:20:48.786290800</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new actor: Novi Glumac</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-14T13:21:06.505815</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Novi Direktor</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-14T13:21:43.932424</timestamp>
+    <user>Admin Sustava</user>
+    <action>Updated actor with ID: 11 (Editirani NoviGlumac)</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-14T13:22:08.896412300</timestamp>
+    <user>Admin Sustava</user>
+    <action>Updated director with ID: 5 (Editirani NoviDirektor)</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-14T13:22:53.331433400</timestamp>
+    <user>Admin Sustava</user>
+    <action>User selected image: 1781436173319_e4d5a4f8dfe398b89b2d248dedac5369.jpg</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-14T13:22:55.003993100</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: Nova Serija</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-14T13:22:55.017173800</timestamp>
+    <user>Admin Sustava</user>
+    <action>Saved series: Nova Serija</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-14T13:23:29.738251600</timestamp>
+    <user>Admin Sustava</user>
+    <action>User selected image: 1781436209721_3jq8ff2.jpg</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-14T13:23:34.716563600</timestamp>
+    <user>Admin Sustava</user>
+    <action>Updated series with ID: 5 (Editirana nova serija)</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-14T13:23:34.728065300</timestamp>
+    <user>Admin Sustava</user>
+    <action>Saved series: Editirana nova serija</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-14T13:23:34.742124</timestamp>
+    <user>Admin Sustava</user>
+    <action>Edited series: Editirana nova serija</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-14T13:23:34.752127200</timestamp>
+    <user>Admin Sustava</user>
+    <action>Series edited: Editirana nova serija</action>
+    <level>WARN</level>
+  </log>
+  <log>
+    <timestamp>2026-06-14T13:23:47.435290100</timestamp>
+    <user>Admin Sustava</user>
+    <action>Deleted series with ID: 5 (Editirana nova serija)</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-14T13:23:47.447757700</timestamp>
+    <user>Admin Sustava</user>
+    <action>Deleted series: Editirana nova serija</action>
+    <level>WARN</level>
+  </log>
+  <log>
+    <timestamp>2026-06-14T13:24:07.626042800</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: Nova Serija</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-14T13:24:07.638592800</timestamp>
+    <user>Admin Sustava</user>
+    <action>Saved series: Nova Serija</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-14T13:24:18.930015</timestamp>
+    <user>Admin Sustava</user>
+    <action>Deleted series with ID: 6 (Nova Serija)</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-14T13:24:18.941757900</timestamp>
+    <user>Admin Sustava</user>
+    <action>Deleted series: Nova Serija</action>
+    <level>WARN</level>
+  </log>
+  <log>
+    <timestamp>2026-06-14T13:24:32.348464500</timestamp>
+    <user>Admin Sustava</user>
+    <action>Deleted actor with ID: 11</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-14T13:24:32.359121800</timestamp>
+    <user>Admin Sustava</user>
+    <action>Deleted Actor: Editirani NoviGlumac</action>
+    <level>WARN</level>
+  </log>
+  <log>
+    <timestamp>2026-06-14T13:24:44.301048500</timestamp>
+    <user>Admin Sustava</user>
+    <action>Deleted director with ID: 5 (Editirani NoviDirektor)</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-14T13:24:44.352803800</timestamp>
+    <user>Admin Sustava</user>
+    <action>Deleted Director: Editirani NoviDirektor</action>
+    <level>WARN</level>
+  </log>
+  <log>
+    <timestamp>2026-06-14T13:25:38.989649900</timestamp>
+    <user>Admin Sustava</user>
+    <action>Export: Stranger Things</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-14T13:25:52.359676700</timestamp>
+    <user>Admin Sustava</user>
+    <action>Backup Successful</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-14T13:26:03.331714600</timestamp>
+    <user>Admin Sustava</user>
+    <action>All series successfully deleted from database.</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-14T13:26:04.390266600</timestamp>
+    <user>Admin Sustava</user>
+    <action>Deleted the entire database and non-default assets.</action>
+    <level>WARN</level>
+  </log>
+  <log>
+    <timestamp>2026-06-14T13:48:58.270643</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: Nova Serija</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-14T13:48:58.323614500</timestamp>
+    <user>Admin Sustava</user>
+    <action>Saved series: Nova Serija</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-14T13:49:36.053736200</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new actor: Novi Glumac</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-14T13:50:03.917059900</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Novi Direktor</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-14T13:50:28.635640800</timestamp>
+    <user>Admin Sustava</user>
+    <action>Updated series with ID: 1 (Nova Serija)</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-14T13:50:28.649978</timestamp>
+    <user>Admin Sustava</user>
+    <action>Saved series: Nova Serija</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-14T13:50:28.667740600</timestamp>
+    <user>Admin Sustava</user>
+    <action>Edited series: Nova Serija</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-14T13:50:28.679932800</timestamp>
+    <user>Admin Sustava</user>
+    <action>Series edited: Nova Serija</action>
+    <level>WARN</level>
+  </log>
+  <log>
+    <timestamp>2026-06-14T13:50:51.801083800</timestamp>
+    <user>Admin Sustava</user>
+    <action>Deleted series with ID: 1 (Nova Serija)</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-14T13:50:51.813727200</timestamp>
+    <user>Admin Sustava</user>
+    <action>Deleted series: Nova Serija</action>
+    <level>WARN</level>
+  </log>
+  <log>
+    <timestamp>2026-06-14T13:53:51.688112600</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: Stranger Things</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-14T13:53:51.852140500</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: Succession</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-14T13:53:51.983599400</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: The Bear</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-14T13:53:52.202122100</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: The Last of Us</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-14T13:53:52.214976</timestamp>
+    <user>Admin Sustava</user>
+    <action>User started automatic online data import.</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-14T13:54:24.459620800</timestamp>
+    <user>Admin Sustava</user>
+    <action>Updated director with ID: 1 (Novi Direktor)</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-14T13:54:37.420127400</timestamp>
+    <user>Admin Sustava</user>
+    <action>All series successfully deleted from database.</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-14T13:54:38.359368400</timestamp>
+    <user>Admin Sustava</user>
+    <action>Deleted the entire database and non-default assets.</action>
+    <level>WARN</level>
+  </log>
+  <log>
+    <timestamp>2026-06-16T17:30:08.257580300</timestamp>
+    <user>Obrana Obrana</user>
+    <action>Added new user: Obrana Obrana</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-16T17:31:13.808388500</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: Stranger Things</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-16T17:31:13.974333300</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: Succession</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-16T17:31:14.205668300</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: The Bear</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-16T17:31:14.445322200</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: The Last of Us</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-16T17:31:14.464124700</timestamp>
+    <user>Admin Sustava</user>
+    <action>User started automatic online data import.</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-16T17:34:10.317652200</timestamp>
+    <user>Admin Sustava</user>
+    <action>User selected image: 1781624050267_01jsVS9.jpg</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-16T17:35:18.706871700</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new series: Nova serija</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-16T17:35:18.726963500</timestamp>
+    <user>Admin Sustava</user>
+    <action>Saved series: Nova serija</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-16T17:35:48.301887600</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new actor: Novi Glumac</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-16T17:36:14.695852300</timestamp>
+    <user>Admin Sustava</user>
+    <action>Updated actor with ID: 14 (Editirani NoviGlumac)</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-16T17:36:46.499647</timestamp>
+    <user>Admin Sustava</user>
+    <action>Added new director: Novi Direktor</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-16T17:37:18.644059300</timestamp>
+    <user>Admin Sustava</user>
+    <action>Updated director with ID: 5 (Editirani NoviDirektor)</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-16T17:37:40.030117600</timestamp>
+    <user>Admin Sustava</user>
+    <action>Updated series with ID: 5 (Nova serija)</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-16T17:37:40.044696800</timestamp>
+    <user>Admin Sustava</user>
+    <action>Saved series: Nova serija</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-16T17:37:40.063846100</timestamp>
+    <user>Admin Sustava</user>
+    <action>Edited series: Nova serija</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-16T17:37:40.078091300</timestamp>
+    <user>Admin Sustava</user>
+    <action>Series edited: Nova serija</action>
+    <level>WARN</level>
+  </log>
+  <log>
+    <timestamp>2026-06-16T17:38:07.488428900</timestamp>
+    <user>Admin Sustava</user>
+    <action>Deleted series with ID: 5 (Nova serija)</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-16T17:38:07.507225900</timestamp>
+    <user>Admin Sustava</user>
+    <action>Deleted series: Nova serija</action>
+    <level>WARN</level>
+  </log>
+  <log>
+    <timestamp>2026-06-16T17:38:21.195735300</timestamp>
+    <user>Admin Sustava</user>
+    <action>Deleted actor with ID: 14</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-16T17:38:21.212733900</timestamp>
+    <user>Admin Sustava</user>
+    <action>Deleted Actor: Editirani NoviGlumac</action>
+    <level>WARN</level>
+  </log>
+  <log>
+    <timestamp>2026-06-16T17:38:29.801819700</timestamp>
+    <user>Admin Sustava</user>
+    <action>Deleted director with ID: 5 (Editirani NoviDirektor)</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-16T17:38:29.873058200</timestamp>
+    <user>Admin Sustava</user>
+    <action>Deleted Director: Editirani NoviDirektor</action>
+    <level>WARN</level>
+  </log>
+  <log>
+    <timestamp>2026-06-16T17:38:57.764452600</timestamp>
+    <user>Admin Sustava</user>
+    <action>Export: Stranger Things</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-16T17:39:09.476940500</timestamp>
+    <user>Admin Sustava</user>
+    <action>Backup Successful</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-16T17:40:32.985734300</timestamp>
+    <user>Obrana Obrana</user>
+    <action>Added series to watchlist: 1</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-16T17:40:43.370024300</timestamp>
+    <user>Obrana Obrana</user>
+    <action>Removed series from watchlist: 1</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-16T17:40:43.453298500</timestamp>
+    <user>Obrana Obrana</user>
+    <action>Removed series: Stranger Things</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-16T17:40:48.811189400</timestamp>
+    <user>Obrana Obrana</user>
+    <action>Added series to watchlist: 2</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-16T17:40:54.283252</timestamp>
+    <user>Obrana Obrana</user>
+    <action>Removed series from watchlist: 2</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-16T17:41:38.127122100</timestamp>
+    <user>Admin Sustava</user>
+    <action>All series successfully deleted from database.</action>
+    <level>INFO</level>
+  </log>
+  <log>
+    <timestamp>2026-06-16T17:41:39.295038100</timestamp>
+    <user>Admin Sustava</user>
+    <action>Deleted the entire database and non-default assets.</action>
+    <level>WARN</level>
+  </log>
+</userLogs>

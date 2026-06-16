@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2e151690-aa2e-4a63-bc62-21421ef73c7e" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotChats">
+    <option name="panelChat">
+      <chat>
+        <option name="activeSessionId" value="0f610f26-0606-4f39-8eaf-1cf296a3607b" />
+        <option name="sessions">
+          <session>
+            <option name="chatType" value="PANEL" />
+            <option name="id" value="f0a1365a-ed0a-417f-85ff-576e654cf28d" />
+            <option name="modeId" value="Agent" />
+            <option name="modelType" value="builtin_family" />
+            <option name="modelValue" value="auto" />
+            <option name="status" value="Completed" />
+            <option name="targetType" value="LOCAL" />
+          </session>
+          <session>
+            <option name="chatType" value="PANEL" />
+            <option name="id" value="47345f6c-9957-4bb9-97de-f332da6c1260" />
+            <option name="modeId" value="Agent" />
+            <option name="modelType" value="builtin_family" />
+            <option name="modelValue" value="auto" />
+            <option name="targetType" value="LOCAL" />
+          </session>
+          <session>
+            <option name="chatType" value="PANEL" />
+            <option name="id" value="0f610f26-0606-4f39-8eaf-1cf296a3607b" />
+            <option name="modeId" value="Agent" />
+            <option name="modelProviderName" value="Gemini" />
+            <option name="modelType" value="byok_family" />
+            <option name="modelValue" value="models/gemini-3-flash-preview" />
+            <option name="status" value="Stopped" />
+            <option name="targetType" value="LOCAL" />
+          </session>
+          <session>
+            <option name="chatType" value="PANEL" />
+            <option name="id" value="4ecaae43-cb50-4660-9864-83e27157277c" />
+            <option name="modeId" value="Agent" />
+            <option name="modelType" value="builtin_family" />
+            <option name="modelValue" value="auto" />
+            <option name="targetType" value="LOCAL" />
+          </session>
+          <session>
+            <option name="chatType" value="PANEL" />
+            <option name="id" value="bfcce7cf-5fd4-4bef-8467-bec658b61aaf" />
+            <option name="modeId" value="Agent" />
+            <option name="modelType" value="builtin_family" />
+            <option name="modelValue" value="auto" />
+            <option name="targetType" value="LOCAL" />
+          </session>
+          <session>
+            <option name="chatType" value="PANEL" />
+            <option name="id" value="900cacce-bfb7-4d79-9250-0087a2539de5" />
+            <option name="modeId" value="Agent" />
+            <option name="modelType" value="builtin_family" />
+            <option name="modelValue" value="auto" />
+            <option name="targetType" value="LOCAL" />
+          </session>
+          <session>
+            <option name="chatType" value="PANEL" />
+            <option name="id" value="7028da90-dc55-4f8c-b894-6870247aa2e8" />
+            <option name="modeId" value="Agent" />
+            <option name="modelType" value="builtin_family" />
+            <option name="modelValue" value="auto" />
+            <option name="targetType" value="LOCAL" />
+          </session>
+          <session>
+            <option name="chatType" value="PANEL" />
+            <option name="id" value="375c941d-230e-4537-81df-bd93a4ace017" />
+            <option name="modeId" value="Agent" />
+            <option name="modelType" value="builtin_family" />
+            <option name="modelValue" value="auto" />
+            <option name="targetType" value="LOCAL" />
+          </session>
+          <session>
+            <option name="chatType" value="PANEL" />
+            <option name="id" value="1ba2ba0d-f785-461b-a1ae-8dca88a20919" />
+            <option name="modeId" value="Agent" />
+            <option name="modelType" value="builtin_family" />
+            <option name="modelValue" value="auto" />
+            <option name="targetType" value="LOCAL" />
+          </session>
+          <session>
+            <option name="chatType" value="PANEL" />
+            <option name="id" value="acddba54-37d4-4cd7-adec-ccfafbd9eea0" />
+            <option name="modeId" value="Agent" />
+            <option name="modelType" value="builtin_family" />
+            <option name="modelValue" value="auto" />
+            <option name="targetType" value="LOCAL" />
+          </session>
+        </option>
+        <option name="type" value="PANEL" />
+      </chat>
+    </option>
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_C:/Users/Blaž Rodić/Desktop/SeriesManager/SeriesManager" value="3Bkg84PiqRTcxWQjvovQlRQ0V7L" />
+    </persistenceIdMap>
+  </component>
+  <component name="CopilotUserSelectedModel">
+    <selectedModels>
+      <entry key="agent-panel" value="Auto" />
+      <entry key="chat-panel" value="Auto" />
+    </selectedModels>
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="102" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Exception" />
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="package-info" />
+        <option value="module-info" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0001290305225294" />
+      <entry key="MS500" value="1.1667921529145002" />
+      <entry key="S2" value="1.7019456288904695" />
+      <entry key="S5" value="2.2733900853174767" />
+      <entry key="S10" value="2.994973932524571" />
+      <entry key="S30" value="6.074175832388349" />
+      <entry key="S60" value="10.544546049782417" />
+      <entry key="M2" value="16.66594910937905" />
+      <entry key="M5" value="24.99066922794954" />
+      <entry key="M10" value="31.305321090502602" />
+      <entry key="M15" value="36.10219930332377" />
+      <entry key="M30" value="50.0372581093766" />
+      <entry key="H1" value="78.72546400877376" />
+      <entry key="H2" value="194.69006709716663" />
+      <entry key="H4" value="600.146584488208" />
+      <entry key="D1" value="2577.1843540327877" />
+      <entry key="W1" value="3551.6435528514085" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="5.1824242760480265E-33" />
+      <entry key="MS500" value="3.490652486883283E-7" />
+      <entry key="S2" value="0.024712376292070872" />
+      <entry key="S5" value="0.2860183562527023" />
+      <entry key="S10" value="0.8142186282368192" />
+      <entry key="S30" value="1.8814884388909445" />
+      <entry key="S60" value="2.3664200674839404" />
+      <entry key="M2" value="2.6632142134573935" />
+      <entry key="M5" value="3.0497016796031886" />
+      <entry key="M10" value="4.740738249258369" />
+      <entry key="M15" value="7.36844131775181" />
+      <entry key="M30" value="16.32178333014528" />
+      <entry key="H1" value="32.468156790379304" />
+      <entry key="H2" value="61.47803935966582" />
+      <entry key="H4" value="128.78058336573272" />
+      <entry key="D1" value="692.3935393435025" />
+      <entry key="W1" value="1068.7883278570212" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.26061644368609904" />
+      <entry key="MS500" value="0.7845221147765467" />
+      <entry key="S2" value="1.3524974612750162" />
+      <entry key="S5" value="2.2142647274475458" />
+      <entry key="S10" value="3.520700363513328" />
+      <entry key="S30" value="7.787571991686257" />
+      <entry key="S60" value="12.80464687232008" />
+      <entry key="M2" value="19.267266567846672" />
+      <entry key="M5" value="28.012199932070203" />
+      <entry key="M10" value="36.02868352853304" />
+      <entry key="M15" value="43.45549583111446" />
+      <entry key="M30" value="66.34384482072632" />
+      <entry key="H1" value="111.17820803136347" />
+      <entry key="H2" value="256.1537756956939" />
+      <entry key="H4" value="728.9136830422395" />
+      <entry key="D1" value="3269.5683577904124" />
+      <entry key="W1" value="4620.429842461672" />
+    </decayedShown>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3Bkg84PiqRTcxWQjvovQlRQ0V7L" />
+  <component name="ProjectSessionTemplates">
+    <option name="inlineTemplate">
+      <template>
+        <option name="modeId" value="InlineAgent" />
+        <option name="model">
+          <model>
+            <option name="modelType" value="builtin_family" />
+            <option name="modelValue" value="auto" />
+          </model>
+        </option>
+        <option name="targetType" value="LOCAL" />
+      </template>
+    </option>
+    <option name="panelTemplate">
+      <template>
+        <option name="modeId" value="Agent" />
+        <option name="model">
+          <model>
+            <option name="modelType" value="builtin_family" />
+            <option name="modelValue" value="auto" />
+          </model>
+        </option>
+        <option name="targetType" value="LOCAL" />
+      </template>
+    </option>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ExceptionTestingMain.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Series Manager.executor": "Run",
+    "Application.Start.executor": "Run",
+    "Application.TestMain.executor": "Run",
+    "Application.TestingActorMain.executor": "Run",
+    "Application.TestingDirectorMain.executor": "Run",
+    "Application.TestingSeriesMain.executor": "Run",
+    "Application.TestingUserMain.executor": "Run",
+    "Application.testic.executor": "Run",
+    "JUnit.EntityEqualsTest.executor": "Run",
+    "JavaMethodFindUsagesOptions.isOverridingMethods": "true",
+    "JavaMethodFindUsagesOptions.isSearchForTextOccurrences": "true",
+    "Maven.SeriesManager [clean].executor": "Run",
+    "Maven.SeriesManager [compile].executor": "Run",
+    "Maven.SeriesManager [install].executor": "Run",
+    "Maven.SeriesManager [org.openjfx:javafx-maven-plugin:0.0.8:run].executor": "Run",
+    "Maven.SeriesManager-App [clean].executor": "Run",
+    "Maven.SeriesManager-App [install].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.codeInspection.ui.actions.InspectionResultsExportActionProvider.location": "C:/Users/Blaž Rodić/Desktop/SeriesManager/SeriesManager",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_directory_selection": "C:/Users/Blaž Rodić/Desktop/SeriesManager/SeriesManager/SeriesManager-Utils/src/main/resources/hr/algebra",
+    "last_opened_file_path": "C:/Users/Blaž Rodić/Desktop/SeriesManager/SeriesManager/assets",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "postgresql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Blaž Rodić\Desktop\SeriesManager\SeriesManager\assets" />
+      <recent name="C:\Users\Blaž Rodić\Desktop\SeriesManager\SeriesManager\SeriesManager-Utils\src\main\resources" />
+      <recent name="C:\Users\Blaž Rodić\Desktop\SeriesManager\SeriesManager\SeriesManager-App\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Blaž Rodić\Desktop\SeriesManager\SeriesManager\src\main\resources\SQL" />
+      <recent name="C:\Users\Blaž Rodić\Desktop\SeriesManager\SeriesManager\src\main\java\hr\algebra\utils" />
+      <recent name="C:\Users\Blaž Rodić\Desktop\SeriesManager\SeriesManager\src\main\resources" />
+      <recent name="C:\Users\Blaž Rodić\Desktop\SeriesManager\SeriesManager\src\main\java\hr\algebra" />
+      <recent name="C:\Users\Blaž Rodić\Desktop\SeriesManager\SeriesManager\src\main\java" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Series Manager">
+    <configuration name="Series Manager" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="ms-21" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="hr.algebra.main.Main" />
+      <module name="SeriesManager" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="SeriesManager-App" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="SeriesManager-App" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SeriesManager [install]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="cmdOptions" />
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="install" />
+              </list>
+            </option>
+            <option name="multimoduleDir" />
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="projectsCmdOptionValues">
+              <list />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Series Manager" />
+      <item itemvalue="Maven.SeriesManager [install]" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Maven.SeriesManager [install]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.25134.95" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.25134.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2e151690-aa2e-4a63-bc62-21421ef73c7e" name="Changes" comment="" />
+      <created>1775038321633</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1775038321633</updated>
+      <workItem from="1775038323883" duration="4889000" />
+      <workItem from="1775059362706" duration="1978000" />
+      <workItem from="1775061542208" duration="2571000" />
+      <workItem from="1775113054888" duration="3720000" />
+      <workItem from="1775137654331" duration="662000" />
+      <workItem from="1775146611829" duration="104000" />
+      <workItem from="1775156680292" duration="4000" />
+      <workItem from="1775156782841" duration="6467000" />
+      <workItem from="1775234991158" duration="1475000" />
+      <workItem from="1775237003849" duration="2832000" />
+      <workItem from="1775239855877" duration="523000" />
+      <workItem from="1775240491035" duration="14000" />
+      <workItem from="1775240516356" duration="1843000" />
+      <workItem from="1775298405309" duration="2202000" />
+      <workItem from="1775335649804" duration="613000" />
+      <workItem from="1775386412419" duration="1091000" />
+      <workItem from="1775402410073" duration="2800000" />
+      <workItem from="1775414945908" duration="1934000" />
+      <workItem from="1775424202216" duration="1490000" />
+      <workItem from="1775425711370" duration="1752000" />
+      <workItem from="1775466494946" duration="3823000" />
+      <workItem from="1775594049049" duration="240000" />
+      <workItem from="1775664062066" duration="1757000" />
+      <workItem from="1775666285370" duration="5731000" />
+      <workItem from="1775750329481" duration="14000" />
+      <workItem from="1775751218632" duration="891000" />
+      <workItem from="1775752902922" duration="409000" />
+      <workItem from="1775759083550" duration="514000" />
+      <workItem from="1775827341073" duration="4320000" />
+      <workItem from="1775843954471" duration="725000" />
+      <workItem from="1775930427048" duration="2639000" />
+      <workItem from="1775933140667" duration="152000" />
+      <workItem from="1775933491125" duration="286000" />
+      <workItem from="1777125090375" duration="156000" />
+      <workItem from="1777125337412" duration="967000" />
+      <workItem from="1777127477136" duration="293000" />
+      <workItem from="1777127822699" duration="7068000" />
+      <workItem from="1777193091128" duration="5955000" />
+      <workItem from="1777200423309" duration="4860000" />
+      <workItem from="1777206644684" duration="10727000" />
+      <workItem from="1777314217748" duration="154000" />
+      <workItem from="1777362215727" duration="5613000" />
+      <workItem from="1777368153161" duration="31000" />
+      <workItem from="1777368659348" duration="94000" />
+      <workItem from="1777368865738" duration="356000" />
+      <workItem from="1777369378869" duration="364000" />
+      <workItem from="1777369766082" duration="116000" />
+      <workItem from="1777369900617" duration="8000" />
+      <workItem from="1777369968900" duration="6000" />
+      <workItem from="1777370005774" duration="58000" />
+      <workItem from="1777370089053" duration="646000" />
+      <workItem from="1777448712704" duration="4000" />
+      <workItem from="1777448734131" duration="883000" />
+      <workItem from="1777449678100" duration="7533000" />
+      <workItem from="1777457259185" duration="120000" />
+      <workItem from="1777457394970" duration="145000" />
+      <workItem from="1777481254178" duration="1177000" />
+      <workItem from="1777482555075" duration="360000" />
+      <workItem from="1777534668382" duration="668000" />
+      <workItem from="1777535372002" duration="3314000" />
+      <workItem from="1777554663984" duration="3656000" />
+      <workItem from="1777558647169" duration="1959000" />
+      <workItem from="1777710700220" duration="10307000" />
+      <workItem from="1777726006880" duration="10058000" />
+      <workItem from="1777748202859" duration="4206000" />
+      <workItem from="1777796034661" duration="3938000" />
+      <workItem from="1777800516538" duration="1521000" />
+      <workItem from="1777808098229" duration="4092000" />
+      <workItem from="1777813835103" duration="219000" />
+      <workItem from="1777816047224" duration="2555000" />
+      <workItem from="1777820668897" duration="1189000" />
+      <workItem from="1777839014511" duration="2813000" />
+      <workItem from="1777886148295" duration="4522000" />
+      <workItem from="1777896818991" duration="4000" />
+      <workItem from="1777976513045" duration="890000" />
+      <workItem from="1778055920126" duration="5895000" />
+      <workItem from="1778062281588" duration="63000" />
+      <workItem from="1778074457783" duration="1057000" />
+      <workItem from="1778083005618" duration="465000" />
+      <workItem from="1778083723492" duration="10734000" />
+      <workItem from="1778140908578" duration="1075000" />
+      <workItem from="1778167181204" duration="121000" />
+      <workItem from="1778314270347" duration="562000" />
+      <workItem from="1778417732228" duration="1091000" />
+      <workItem from="1778446232960" duration="206000" />
+      <workItem from="1778675863439" duration="6295000" />
+      <workItem from="1778746141614" duration="8115000" />
+      <workItem from="1778764577903" duration="571000" />
+      <workItem from="1778765478471" duration="157000" />
+      <workItem from="1778834870977" duration="4572000" />
+      <workItem from="1778845999338" duration="20475000" />
+      <workItem from="1778921377618" duration="3056000" />
+      <workItem from="1778925293951" duration="1596000" />
+      <workItem from="1778926927843" duration="1205000" />
+      <workItem from="1778943574311" duration="524000" />
+      <workItem from="1779022162793" duration="167000" />
+      <workItem from="1779022361169" duration="5150000" />
+      <workItem from="1779094560448" duration="1172000" />
+      <workItem from="1779183868237" duration="4080000" />
+      <workItem from="1779205548289" duration="1169000" />
+      <workItem from="1779217051371" duration="285000" />
+      <workItem from="1779269887303" duration="3290000" />
+      <workItem from="1779273275758" duration="6995000" />
+      <workItem from="1779359459289" duration="1535000" />
+      <workItem from="1779362953548" duration="4285000" />
+      <workItem from="1779375209480" duration="1000000" />
+      <workItem from="1779384383320" duration="929000" />
+      <workItem from="1779442574939" duration="14291000" />
+      <workItem from="1779526698722" duration="3838000" />
+      <workItem from="1779530599862" duration="1827000" />
+      <workItem from="1779541170370" duration="979000" />
+      <workItem from="1779545276371" duration="92000" />
+      <workItem from="1779547969591" duration="2075000" />
+      <workItem from="1779613546060" duration="5123000" />
+      <workItem from="1779701246269" duration="8759000" />
+      <workItem from="1779782794184" duration="666000" />
+      <workItem from="1779801292500" duration="2511000" />
+      <workItem from="1779870409946" duration="8956000" />
+      <workItem from="1779879476643" duration="1950000" />
+      <workItem from="1779881858984" duration="984000" />
+      <workItem from="1779894950041" duration="137000" />
+      <workItem from="1779959737945" duration="9300000" />
+      <workItem from="1780127997779" duration="2850000" />
+      <workItem from="1780131240051" duration="88000" />
+      <workItem from="1780136957713" duration="21000" />
+      <workItem from="1780231876137" duration="267000" />
+      <workItem from="1780235442779" duration="433000" />
+      <workItem from="1780497667187" duration="1023000" />
+      <workItem from="1780575328827" duration="2019000" />
+      <workItem from="1780903652668" duration="137000" />
+      <workItem from="1780909218077" duration="4699000" />
+      <workItem from="1780928727003" duration="3223000" />
+      <workItem from="1780936571183" duration="1693000" />
+      <workItem from="1780947722992" duration="33000" />
+      <workItem from="1780992642933" duration="6870000" />
+      <workItem from="1781000642395" duration="1117000" />
+      <workItem from="1781034746128" duration="327000" />
+      <workItem from="1781038898545" duration="141000" />
+      <workItem from="1781039121904" duration="230000" />
+      <workItem from="1781039355604" duration="368000" />
+      <workItem from="1781039740029" duration="68000" />
+      <workItem from="1781085838015" duration="5085000" />
+      <workItem from="1781167399857" duration="134000" />
+      <workItem from="1781167566257" duration="106000" />
+      <workItem from="1781167689216" duration="5004000" />
+      <workItem from="1781182599509" duration="2262000" />
+      <workItem from="1781190289803" duration="5502000" />
+      <workItem from="1781204159044" duration="713000" />
+      <workItem from="1781278711986" duration="3826000" />
+      <workItem from="1781343811085" duration="40000" />
+      <workItem from="1781344386578" duration="14265000" />
+      <workItem from="1781364381167" duration="5751000" />
+      <workItem from="1781427919193" duration="3276000" />
+      <workItem from="1781431859195" duration="4581000" />
+      <workItem from="1781437680440" duration="410000" />
+      <workItem from="1781449215460" duration="1133000" />
+      <workItem from="1781515440492" duration="6017000" />
+      <workItem from="1781538928473" duration="711000" />
+      <workItem from="1781614220610" duration="10135000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
+  </component>
+</project>

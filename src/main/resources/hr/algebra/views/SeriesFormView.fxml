@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.*?>
+<BorderPane xmlns="http://javafx.com/javafx/21"
+            xmlns:fx="http://javafx.com/fxml/1"
+            fx:controller="hr.algebra.controllers.SeriesFormController"
+            prefWidth="860" prefHeight="700"> <top>
+    <Label fx:id="lblTitle" text="New Series"/>
+</top>
+    <center>
+        <HBox spacing="16" style="-fx-padding: 0 16 16 16;">
+            <ScrollPane fitToWidth="true" hbarPolicy="NEVER" prefWidth="410">
+                <VBox spacing="6"> <Label text="BASIC DATA"/>
+                    <TextField fx:id="txtName"/>
+                    <HBox spacing="8">
+                        <VBox spacing="4" HBox.hgrow="ALWAYS">
+                            <Label text="Seasons *" />
+                            <TextField fx:id="txtSeasons"/>
+                        </VBox>
+                        <VBox spacing="4" HBox.hgrow="ALWAYS">
+                            <Label text="Episodes *"/>
+                            <TextField fx:id="txtEpisodes"/>
+                        </VBox>
+                    </HBox>
+                    <HBox spacing="8">
+                        <VBox spacing="4" HBox.hgrow="ALWAYS">
+                            <Label text="Start Year *"/>
+                            <TextField fx:id="txtYearStart"/>
+                        </VBox>
+                        <VBox spacing="4" HBox.hgrow="ALWAYS">
+                            <Label text="End Year"/>
+                            <TextField fx:id="txtYearEnd"/>
+                        </VBox>
+                    </HBox>
+                    <Label text="Description"/>
+                    <TextArea fx:id="txtDescription" prefHeight="60" minHeight="60" wrapText="true"/>
+                    <Label text="Director"/>
+                    <ComboBox fx:id="cmbDirector" maxWidth="Infinity" />
+                    <Label text="Genres" />
+                    <ListView fx:id="listGenres" prefHeight="70" minHeight="70" />
+                    <Label text="Platforms" />
+                    <ListView fx:id="listPlatforms" prefHeight="70" minHeight="70" />
+                    <Label text="POSTER" style=" -fx-font-size: 11; -fx-padding: 5 0 0 0;"/>
+                    <HBox spacing="10" alignment="CENTER_LEFT" style="-fx-padding: 0 0 10 0;">
+                        <StackPane >
+                            <ImageView fx:id="ivPoster" fitWidth="80.0" fitHeight="110.0" preserveRatio="true" />
+                        </StackPane>
+                        <VBox spacing="5">
+                            <Button text="Select Poster" onAction="#onSelectPoster" />
+                            <Label fx:id="lblPosterPath" text="No image selected" wrapText="true" maxWidth="150" />
+                        </VBox>
+                    </HBox>
+                </VBox>
+            </ScrollPane>
+            <VBox spacing="8" prefWidth="380">
+                <Label text="CAST — DRAG AND DROP" />
+                <Label text="Available actors:" />
+                <ListView fx:id="listAllActors" prefHeight="200" />
+                <Label text="Series cast:" />
+                <ListView fx:id="listCast" prefHeight="200" VBox.vgrow="ALWAYS" />
+                <Button text="Remove from cast" onAction="#onRemoveFromCast" />
+            </VBox>
+        </HBox>
+    </center>
+    <bottom>
+        <VBox spacing="4" style="-fx-padding: 8 16 16 16;">
+            <Label fx:id="lblError" text="Error" visible="false"/>
+            <HBox spacing="8" alignment="CENTER_RIGHT">
+                <Button text="Cancel" onAction="#onCancel" />
+                <Button text="Save" onAction="#onSave" />
+            </HBox>
+        </VBox>
+    </bottom>
+</BorderPane>

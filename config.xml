@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<config>
+    <dbUrl>jdbc:postgresql://localhost:5432/series_manager_db</dbUrl>
+    <screenWidth>1200</screenWidth>
+    <screenHeight>800</screenHeight>
+</config>

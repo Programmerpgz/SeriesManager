@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.VBox?>
+<VBox xmlns="http://javafx.com/javafx/21"
+      xmlns:fx="http://javafx.com/fxml/1"
+      fx:controller="hr.algebra.controllers.ActorController"
+      VBox.vgrow="ALWAYS">
+
+    <TableView fx:id="tableActors" VBox.vgrow="ALWAYS">
+        <columns>
+            <TableColumn fx:id="colActorName" text="Name" prefWidth="150"/>
+            <TableColumn fx:id="colActorSurname" text="Surname" prefWidth="150"/>
+            <TableColumn fx:id="colActorYear" text="Year of birth" prefWidth="100"/>
+            <TableColumn fx:id="colActorNationality" text="Nationality" prefWidth="150"/>
+        </columns>
+        <placeholder><Label text="No actors found."/></placeholder>
+    </TableView>
+</VBox>

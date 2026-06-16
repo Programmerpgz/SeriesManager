@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="8de079d0-c200-4820-875c-e0e34324d923" name="series_manager_db@localhost Mapping">
+      <data-sources db="1837bfdf-384c-4b7f-8ab8-f705cae2a1bb" />
+      <scope>
+        <node kind="database" qname="series_manager_db" />
+      </scope>
+    </mapping>
+  </component>
+</project>

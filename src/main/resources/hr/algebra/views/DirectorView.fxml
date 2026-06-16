@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.VBox?>
+<VBox xmlns="http://javafx.com/javafx/21"
+      xmlns:fx="http://javafx.com/fxml/1"
+      fx:controller="hr.algebra.controllers.DirectorController"
+      VBox.vgrow="ALWAYS">
+
+    <TableView fx:id="tableDirectors" VBox.vgrow="ALWAYS">
+        <columns>
+            <TableColumn fx:id="colDirectorName" text="Name" prefWidth="150"/>
+            <TableColumn fx:id="colDirectorSurname" text="Surname" prefWidth="150"/>
+            <TableColumn fx:id="colDirectorYear" text="Year of birth" prefWidth="100"/>
+            <TableColumn fx:id="colDirectorNationality" text="Nationality" prefWidth="150"/>
+            <TableColumn fx:id="colDirectorBiography" text="Biography" prefWidth="250"/>
+        </columns>
+        <placeholder><Label text="No directors found."/></placeholder>
+    </TableView>
+</VBox>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+<VBox xmlns="http://javafx.com/javafx/21"
+      xmlns:fx="http://javafx.com/fxml/1"
+      fx:controller="hr.algebra.controllers.ActorFormController"
+      spacing="10"
+      prefWidth="400" prefHeight="450">
+    <padding>
+        <Insets top="15" right="15" bottom="15" left="15"/>
+    </padding>
+
+    <Label fx:id="lblTitle" text="New actor"/>
+
+    <Label text="Name *"/>
+    <TextField fx:id="txtName"/>
+
+    <Label text="Surname *"/>
+    <TextField fx:id="txtSurname" />
+
+    <Label text="Year of birth *"/>
+    <TextField fx:id="txtYearOfBirth"/>
+
+    <Label text="Nationality"/>
+    <TextField fx:id="txtNationality"/>
+
+    <HBox spacing="8" alignment="CENTER_RIGHT">
+        <Button text="Give up" onAction="#onCancel"/>
+        <Button text="Save" onAction="#onSave"/>
+    </HBox>
+</VBox>

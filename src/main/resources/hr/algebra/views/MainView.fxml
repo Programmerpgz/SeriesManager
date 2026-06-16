@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<BorderPane xmlns="http://javafx.com/javafx/21"
+            xmlns:fx="http://javafx.com/fxml/1"
+            fx:controller="hr.algebra.controllers.MainController"
+            prefWidth="1100" prefHeight="700">
+    <top>
+        <VBox>
+            <MenuBar>
+                <Menu text="Series">
+                    <MenuItem fx:id="menuAddSeries" text="Add series" onAction="#onAddSeries"/>
+                    <MenuItem fx:id="menuEditSeries" text="Edit series" onAction="#onEditSeries"/>
+                    <MenuItem fx:id="menuDeleteSeries" text="Delete series" onAction="#onDeleteSeries"/>
+                    <MenuItem fx:id="menuExportSeries" text="Export Selected to XML" onAction="#onExportToXml"/>
+                    <MenuItem fx:id="menuBackupAll" text="Backup All to XML" onAction="#onBackupAll"/>
+                    <SeparatorMenuItem/>
+                    <MenuItem text="Logout" onAction="#onLogout"/>
+                </Menu>
+                <Menu fx:id="menuActors" text="Actors">
+                    <MenuItem text="Add actor" onAction="#onAddActor"/>
+                    <MenuItem text="Edit Actor" onAction="#onEditActor"/>
+                    <MenuItem text="Delete actor" onAction="#onDeleteActor"/>
+                </Menu>
+                <Menu fx:id="menuDirectors" text="Directors">
+                    <MenuItem text="Add director" onAction="#onAddDirector"/>
+                    <MenuItem text="Edit director" onAction="#onEditDirector"/>
+                    <MenuItem text="Delete director" onAction="#onDeleteDirector"/>
+                </Menu>
+                <Menu text="Filters">
+                    <MenuItem text="By platform" onAction="#onFilterByPlatform"/>
+                    <MenuItem text="By genre" onAction="#onFilterByGenre"/>
+                    <MenuItem text="Is still emitting" onAction="#onFilterStillEmitting"/>
+                    <SeparatorMenuItem/>
+                    <MenuItem text="Clear filters" onAction="#onAllSeries"/>
+                </Menu>
+            </MenuBar>
+
+            <HBox spacing="10" alignment="CENTER_LEFT" style="-fx-padding: 10;">
+                <TextField fx:id="txtSearch" promptText="Search series by name..." prefWidth="300"/>
+                <Button fx:id="btnMyWatchlist" text="My Watchlist" onAction="#onOpenWatchlist"/>
+                <Region HBox.hgrow="ALWAYS"/>
+                <Label fx:id="lblUser"/>
+            </HBox>
+        </VBox>
+    </top>
+
+    <center>
+        <VBox spacing="5" style="-fx-padding: 0 10 10 10;">
+            <TabPane VBox.vgrow="ALWAYS">
+                <Tab text="Series" closable="false">
+                    <fx:include fx:id="seriesView" source="SeriesView.fxml"/>
+                </Tab>
+                <Tab text="Actors" closable="false">
+                    <fx:include fx:id="actorsView" source="ActorView.fxml"/>
+                </Tab>
+                <Tab text="Directors" closable="false">
+                    <fx:include fx:id="directorsView" source="DirectorView.fxml"/>
+                </Tab>
+            </TabPane>
+        </VBox>
+    </center>
+</BorderPane>

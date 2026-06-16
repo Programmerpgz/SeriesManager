@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+<VBox xmlns="http://javafx.com/javafx/21"
+      xmlns:fx="http://javafx.com/fxml/1"
+      fx:controller="hr.algebra.controllers.SeriesController"
+      VBox.vgrow="ALWAYS">
+    <HBox alignment="CENTER_LEFT" spacing="10">
+        <Label fx:id="lblStatus" text="All series" style="-fx-font-weight: bold;"/>
+    </HBox>
+    <TableView fx:id="tableSeries" VBox.vgrow="ALWAYS">
+        <columns>
+            <TableColumn fx:id="colPoster" text="Poster" style="-fx-alignment: CENTER;"/>
+            <TableColumn fx:id="colName" text="Name" prefWidth="200"/>
+            <TableColumn fx:id="colSeasons" text="Seasons" prefWidth="60"/>
+            <TableColumn fx:id="colEpisodes" text="Episodes" prefWidth="70"/>
+            <TableColumn fx:id="colPeriod" text="Period" prefWidth="120"/>
+            <TableColumn fx:id="colGenres" text="Genres" prefWidth="150"/>
+            <TableColumn fx:id="colPlatforms" text="Platforms" prefWidth="150"/>
+            <TableColumn fx:id="colDirector" text="Director" prefWidth="120"/>
+            <TableColumn fx:id="colActors" text="Actors" prefWidth="150"/>
+            <TableColumn fx:id="colDescription" text="Description" prefWidth="150"/>
+        </columns>
+        <placeholder><Label text="No series found."/></placeholder>
+    </TableView>
+</VBox>

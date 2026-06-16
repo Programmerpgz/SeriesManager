@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.VBox?>
+<VBox xmlns="http://javafx.com/javafx/21"
+      xmlns:fx="http://javafx.com/fxml/1"
+      fx:controller="hr.algebra.controllers.RegisterController"
+      alignment="CENTER"
+      spacing="12"
+      prefWidth="400" prefHeight="580">
+    <Label text="Registration" style="-fx-font-size: 32px; -fx-font-weight: bold; -fx-text-fill: #333333;"/>
+    <VBox spacing="8" maxWidth="300">
+        <Label text="Name" />
+        <TextField fx:id="txtName" />
+        <Label text="Surname"/>
+        <TextField fx:id="txtSurname"/>
+        <Label text="Email"/>
+        <TextField fx:id="txtEmail" />
+        <Label text="Username"/>
+        <TextField fx:id="txtUsername"/>
+        <Label text="Password"/>
+        <PasswordField fx:id="txtPassword"/>
+        <Label fx:id="lblError" visible="false"/>
+        <Button text="Register" onAction="#onRegister" maxWidth="Infinity"/>
+        <Button text="← Back to login" onAction="#onBack" maxWidth="Infinity"/>
+    </VBox>
+</VBox>
