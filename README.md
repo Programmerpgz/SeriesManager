@@ -11,15 +11,6 @@ It is built as a full-stack desktop system using **JavaFX + PostgreSQL + Maven**
 
 ---
 
-## 📸 Preview
-
-> *(Add screenshots here — recommended for GitHub portfolio impact)*
-
-
-assets/screenshots/login.png
-assets/screenshots/dashboard.png
-assets/screenshots/series.png
-
 
 ---
 
