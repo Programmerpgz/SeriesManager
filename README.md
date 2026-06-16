@@ -1,64 +1,126 @@
-SeriesManager
+# 🎬 SeriesManager
 
-SeriesManager is a JavaFX desktop application for managing TV series, users, actors, directors, and personal watchlists. The application uses a PostgreSQL database for persistence and Maven for dependency management and build automation.
+![Java](https://img.shields.io/badge/Java-21-blue)
+![Maven](https://img.shields.io/badge/Maven-Build-orange)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue)
+![JavaFX](https://img.shields.io/badge/JavaFX-UI-green)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
-📌 Features
-User authentication (Admin & Standard user roles)
-TV series management
-Actor and director management
-Personal watchlist system
-XML-based data import (requires internet connection)
-PostgreSQL-backed persistent storage
-JavaFX modern desktop UI
-🛠️ Tech Stack
-Java 21
-JavaFX
-Maven
-PostgreSQL
-Jackson XML
-Logback
-📦 Project Structure
-src/main/java – Application source code
-src/main/resources/SQL – Database scripts and dump files
-assets/ – Application images and static resources
-config.xml – Database connection configuration
-user_activity.xml – User activity tracking file
-⚙️ Requirements
+**SeriesManager** is a JavaFX desktop application for managing TV series, users, actors, directors, and personal watchlists.  
+It is built as a full-stack desktop system using **JavaFX + PostgreSQL + Maven**.
 
-Before running the project, make sure you have installed:
+---
 
-JDK 21
-Apache Maven
-PostgreSQL
-🗄️ Database Setup
-1. Create Database
+## 📸 Preview
 
-Create an empty PostgreSQL database:
+> *(Add screenshots here — recommended for GitHub portfolio impact)*
 
+
+assets/screenshots/login.png
+assets/screenshots/dashboard.png
+assets/screenshots/series.png
+
+
+---
+
+## ✨ Key Features
+
+- 🔐 Secure login system (Admin & User roles)
+- 📺 TV series management (CRUD operations)
+- 🎭 Actor & director management
+- ⭐ Personal watchlist functionality
+- 📥 XML data import (external source, requires internet)
+- 🗄️ Full PostgreSQL integration
+- 📊 Persistent user activity tracking
+- 🖥️ Modern JavaFX UI
+
+---
+
+## 🧠 Architecture Overview
+
+
++------------------------+
+| JavaFX UI Layer |
+| (Controllers / Views) |
++-----------+------------+
+|
+v
++------------------------+
+| Service Layer |
+| Business Logic / Rules |
++-----------+------------+
+|
+v
++------------------------+
+| DAO Layer |
+| Database Access Layer |
++-----------+------------+
+|
+v
++------------------------+
+| PostgreSQL Database |
++------------------------+
+
+
+---
+
+## 🛠️ Tech Stack
+
+| Layer | Technology |
+|------|------------|
+| Language | Java 21 |
+| UI | JavaFX |
+| Build Tool | Maven |
+| Database | PostgreSQL |
+| XML Parsing | Jackson XML |
+| Logging | Logback |
+
+---
+
+## 📦 Project Structure
+
+
+src/main/java → Application source code
+src/main/resources → Configs, SQL scripts, assets
+assets/ → Images & UI resources
+config.xml → DB configuration
+user_activity.xml → User activity logs
+
+
+---
+
+## ⚙️ Requirements
+
+Before running the project, ensure you have:
+
+- Java JDK 21
+- Apache Maven
+- PostgreSQL (running locally)
+- Internet connection (for XML import feature)
+
+---
+
+## 🗄️ Database Setup
+
+### 1. Create Database
+
+```sql
 CREATE DATABASE series_manager_db;
-2. Import Database Dump
+2. Import Full Database Dump
 
-Run the full SQL script:
+Run the SQL script:
 
-src/main/resources/SQL/create_database_full.sql
-
-This script will create:
-
-Tables
-Sequences
-Constraints
-Functions & procedures
-Initial application data
-Default users
-3. Run via Terminal
 psql -U postgres -d series_manager_db -f src/main/resources/SQL/create_database_full.sql
 
-If your PostgreSQL user is different, replace postgres accordingly.
+This will create:
 
+Tables & relationships
+Constraints
+Sequences
+Functions & procedures
+Initial data
+Default users
 🔐 Environment Variables
-
-The application uses environment variables for database authentication:
-
 Windows (PowerShell)
 $env:DB_USER="postgres"
 $env:DB_PASSWORD="your_password"
@@ -74,55 +136,51 @@ Example:
 
 <dbUrl>jdbc:postgresql://localhost:5432/series_manager_db</dbUrl>
 🚀 Running the Application
-▶️ Option 1: IntelliJ IDEA
-Open the project in IntelliJ IDEA
-Ensure JDK 21 is selected
-Let Maven import dependencies
-Set environment variables (DB_USER, DB_PASSWORD)
+▶ IntelliJ IDEA
+Open project
+Set JDK 21
+Load Maven dependencies
+Set environment variables
 Run:
 hr.algebra.main.Main
-▶️ Option 2: Maven (Terminal)
+▶ Terminal (Maven)
 mvn clean javafx:run
-👤 Default Application Users
-
-After database import, the following users are available:
-
+👤 Default Users
 Admin
 username: admin
 password: admin123
-Standard User
+User
 username: macak
 password: macak1
-📥 XML Data Import
+📥 XML Import Feature
 
-The application supports importing series data from an external XML source.
+Series data can be imported from an external XML source.
 
-⚠️ Internet connection is required for this feature.
+⚠ Requires internet connection.
 
-If offline, the application will still function normally, but import will be disabled.
+If offline, the app still works normally.
 
 ⚠️ Common Issues
-Missing environment variables
-
-Ensure DB_USER and DB_PASSWORD are set correctly.
-
-Database connection failure
-
-Check:
-
-PostgreSQL service is running
-Database series_manager_db exists
-SQL script has been executed
-Correct port in config.xml
-SQL errors (objects already exist)
-
-Ensure the database is empty before running create_database_full.sql.
-
-Maven / Java issues
-
-Ensure JDK 21 is installed and selected.
-
+❌ Database connection failed
+Check PostgreSQL service
+Verify database name
+Check config.xml
+Ensure correct credentials
+❌ Missing environment variables
+Set DB_USER and DB_PASSWORD
+❌ SQL errors (already exists)
+Ensure database is empty before running dump
+❌ Maven / Java issues
+Use JDK 21
+📊 Data Model Overview
+Users
+ ├── Roles
+ ├── Watchlist
+ │     └── Series
+ │           ├── Actors
+ │           └── Directors
 🧾 Notes
-The assets/ folder must remain in the project root (required for images).
-user_activity.xml stores user activity data.
-SQL dump was generated from PostgreSQL 18.3.
+assets/ folder must remain in root directory
+user_activity.xml stores user activity logs
+Database dump generated from PostgreSQL 18.3
+Designed as a university-level full-stack desktop project
