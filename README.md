@@ -1,64 +1,58 @@
 # 🎬 SeriesManager
 
-![Java](https://img.shields.io/badge/Java-21-blue)
-![Maven](https://img.shields.io/badge/Maven-Build-orange)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue)
-![JavaFX](https://img.shields.io/badge/JavaFX-UI-green)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+A full-stack desktop application for managing TV series, users, actors, directors, and personal watchlists.
 
-**SeriesManager** is a JavaFX desktop application for managing TV series, users, actors, directors, and personal watchlists.  
-It is built as a full-stack desktop system using **JavaFX + PostgreSQL + Maven**.
+Built using **Java 21**, **JavaFX**, **PostgreSQL**, and **Maven**, the application demonstrates layered architecture, database integration, authentication, XML data import, and persistent activity tracking.
 
 ---
 
+## ✨ Features
+
+- 🔐 Secure authentication system (Admin & User roles)
+- 📺 Complete TV series management (Create, Read, Update, Delete)
+- 🎭 Actor and director management
+- ⭐ Personal watchlist for each user
+- 📥 Import TV series from an external XML source
+- 🗄️ PostgreSQL database integration
+- 📊 Persistent user activity logging
+- 🖥️ Modern JavaFX desktop interface
 
 ---
 
-## ✨ Key Features
+# 🏗️ Architecture
 
-- 🔐 Secure login system (Admin & User roles)
-- 📺 TV series management (CRUD operations)
-- 🎭 Actor & director management
-- ⭐ Personal watchlist functionality
-- 📥 XML data import (external source, requires internet)
-- 🗄️ Full PostgreSQL integration
-- 📊 Persistent user activity tracking
-- 🖥️ Modern JavaFX UI
+The application follows a layered architecture to separate presentation, business logic, and data access.
 
----
-
-## 🧠 Architecture Overview
-
-
-+------------------------+
-| JavaFX UI Layer |
-| (Controllers / Views) |
-+-----------+------------+
-|
-v
-+------------------------+
-| Service Layer |
-| Business Logic / Rules |
-+-----------+------------+
-|
-v
-+------------------------+
-| DAO Layer |
-| Database Access Layer |
-+-----------+------------+
-|
-v
-+------------------------+
-| PostgreSQL Database |
-+------------------------+
-
+```
++----------------------------+
+|        JavaFX UI           |
+| (Views & Controllers)      |
++-------------+--------------+
+              |
+              ▼
++----------------------------+
+|       Service Layer        |
+|   Business Logic & Rules   |
++-------------+--------------+
+              |
+              ▼
++----------------------------+
+|         DAO Layer          |
+|    Database Access Logic   |
++-------------+--------------+
+              |
+              ▼
++----------------------------+
+|    PostgreSQL Database     |
++----------------------------+
+```
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 | Layer | Technology |
-|------|------------|
+|--------|------------|
 | Language | Java 21 |
 | UI | JavaFX |
 | Build Tool | Maven |
@@ -68,110 +62,209 @@ v
 
 ---
 
-## 📦 Project Structure
+# 📂 Project Structure
 
-
-src/main/java → Application source code
-src/main/resources → Configs, SQL scripts, assets
-assets/ → Images & UI resources
-config.xml → DB configuration
-user_activity.xml → User activity logs
-
+```
+SeriesManager
+│
+├── assets/                     # Images and UI resources
+├── src/
+│   ├── main/
+│   │   ├── java/               # Application source code
+│   │   └── resources/
+│   │       ├── SQL/            # Database scripts
+│   │       ├── config.xml      # Database configuration
+│   │       └── ...
+│
+├── user_activity.xml           # User activity logs
+├── pom.xml
+└── README.md
+```
 
 ---
 
-## ⚙️ Requirements
+# ⚙️ Requirements
 
-Before running the project, ensure you have:
+Before running the application, make sure you have installed:
 
 - Java JDK 21
 - Apache Maven
-- PostgreSQL (running locally)
-- Internet connection (for XML import feature)
+- PostgreSQL
+- Internet connection *(only required for XML import)*
 
 ---
 
-## 🗄️ Database Setup
+# 🗄️ Database Setup
 
-### 1. Create Database
+## 1. Create the database
 
 ```sql
 CREATE DATABASE series_manager_db;
-2. Import Full Database Dump
+```
 
-Run the SQL script:
+## 2. Import the database
 
+Run:
+
+```bash
 psql -U postgres -d series_manager_db -f src/main/resources/SQL/create_database_full.sql
+```
 
-This will create:
+The SQL script automatically creates:
 
-Tables & relationships
-Constraints
-Sequences
-Functions & procedures
-Initial data
-Default users
-🔐 Environment Variables
-Windows (PowerShell)
+- Tables
+- Relationships
+- Constraints
+- Sequences
+- Stored procedures
+- Functions
+- Initial data
+- Default users
+
+---
+
+# 🔐 Environment Variables
+
+## Windows PowerShell
+
+```powershell
 $env:DB_USER="postgres"
 $env:DB_PASSWORD="your_password"
-IntelliJ IDEA
-DB_USER=postgres;DB_PASSWORD=your_password
-⚙️ Configuration
+```
 
-Database connection is defined in:
+## IntelliJ IDEA
 
-config.xml
+```
+DB_USER=postgres
+DB_PASSWORD=your_password
+```
+
+---
+
+# ⚙️ Configuration
+
+Database connection settings are stored in:
+
+```
+src/main/resources/config.xml
+```
 
 Example:
 
+```xml
 <dbUrl>jdbc:postgresql://localhost:5432/series_manager_db</dbUrl>
-🚀 Running the Application
-▶ IntelliJ IDEA
-Open project
-Set JDK 21
-Load Maven dependencies
-Set environment variables
-Run:
+```
+
+---
+
+# 🚀 Running the Application
+
+## IntelliJ IDEA
+
+1. Open the project
+2. Set **JDK 21**
+3. Import Maven dependencies
+4. Configure environment variables
+5. Run:
+
+```
 hr.algebra.main.Main
-▶ Terminal (Maven)
+```
+
+---
+
+## Maven
+
+```bash
 mvn clean javafx:run
-👤 Default Users
-Admin
-username: admin
-password: admin123
-User
-username: macak
-password: macak1
-📥 XML Import Feature
+```
 
-Series data can be imported from an external XML source.
+---
 
-⚠ Requires internet connection.
+# 👤 Default Users
 
-If offline, the app still works normally.
+| Role | Username | Password |
+|------|----------|----------|
+| Admin | admin | admin123 |
+| User | macak | macak1 |
 
-⚠️ Common Issues
-❌ Database connection failed
-Check PostgreSQL service
-Verify database name
-Check config.xml
-Ensure correct credentials
-❌ Missing environment variables
-Set DB_USER and DB_PASSWORD
-❌ SQL errors (already exists)
-Ensure database is empty before running dump
-❌ Maven / Java issues
-Use JDK 21
-📊 Data Model Overview
+---
+
+# 📥 XML Import
+
+The application can import TV series from an external XML source.
+
+> **Note:** Internet connection is required only for this feature.
+
+If the application is offline, all other functionality remains fully operational.
+
+---
+
+# 📊 Database Model
+
+```
 Users
- ├── Roles
- ├── Watchlist
- │     └── Series
- │           ├── Actors
- │           └── Directors
-🧾 Notes
-assets/ folder must remain in root directory
-user_activity.xml stores user activity logs
-Database dump generated from PostgreSQL 18.3
-Designed as a university-level full-stack desktop project
+│
+├── Roles
+│
+├── Watchlists
+│      │
+│      └── Series
+│              │
+│              ├── Actors
+│              └── Directors
+```
+
+---
+
+# 📁 User Activity
+
+Every login and important user action is stored in
+
+```
+user_activity.xml
+```
+
+allowing persistent activity tracking.
+
+---
+
+# ⚠️ Common Issues
+
+### Database connection failed
+
+- Verify PostgreSQL is running
+- Check database name
+- Verify `config.xml`
+- Confirm `DB_USER` and `DB_PASSWORD`
+
+---
+
+### SQL errors ("already exists")
+
+Import the SQL dump into an empty database.
+
+---
+
+### Maven or Java issues
+
+Ensure:
+
+- Java JDK 21 is installed
+- Maven dependencies are downloaded
+- JAVA_HOME points to JDK 21
+
+---
+
+# 📝 Notes
+
+- The **assets/** folder must remain in the project root.
+- XML import requires an active internet connection.
+- The database dump was generated using **PostgreSQL 18.3**.
+- This project was developed as a university full-stack desktop application using JavaFX and PostgreSQL.
+
+---
+
+# 📄 License
+
+This project was developed for educational purposes as part of a university coursework.
